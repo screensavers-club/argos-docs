@@ -10,7 +10,7 @@
 :root {
 	--ifm-color-primary: #2c35de;
 	--ifm-color-primary-dark: #2229ad;
-	--ifm-color-primary-darker: #13175e;
+	--ifm-color-primary-darker: #04095e;
 	--ifm-color-primary-darkest: #0b203d;
 	--ifm-color-primary-light: #1d67a3;
 	--ifm-color-primary-lighter: #7d82e3;
@@ -19,6 +19,7 @@
 
 	--ifm-font-family-base: "DM Sans", sans-serif;
 	--ifm-font-family-monospace: "IBM Plex Mono", monospace;
+	--ifm-link-color: #414bff;
 }
 
 .docusaurus-highlight-code-line {
