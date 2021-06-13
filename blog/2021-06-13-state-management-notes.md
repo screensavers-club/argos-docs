@@ -1,5 +1,8 @@
 ---
-Title: Designing for States: Managing PeerJS and other state
+title: "Designing for States: Managing PeerJS and other state"
+author: Siah
+author_title: Argos Contributor
+tags: [devlog]
 ---
 
 User experience starts with connecting to the Peer Server in order to even begin signalling. 
