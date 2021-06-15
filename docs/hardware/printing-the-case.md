@@ -46,7 +46,7 @@ The full 3D model includes the electronics components for reference.
 
 We used [Simplify 3D](https://www.simplify3d.com/) to slice our models. However, you can use any slicer you feel comfortable with as long as you use similar settings.
 
-![](../../static/img/IMG_5286.jpg)
+![](../../static/img/slicing.jpg)
 (Use a better image in future updates)
 
 :::tip Note
@@ -70,6 +70,6 @@ Place the models in ways which generates the least amount of supports.
 
 Once sliced, you can print the files.
 
-![](../../static/img/IMG_5287.jpg)
+![](../../static/img/printing.jpg)
 Printing the camera mount
 (Add images of the other parts in future updates)
