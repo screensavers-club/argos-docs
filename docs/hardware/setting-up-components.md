@@ -25,4 +25,5 @@ You may try other commands to view the camera output. For example, you can set t
 
 :::
 
-4. Once fully assembled, the setup should look like this ![Raspberry Pi , Touchscreen, HQ Camera Setup](../../static/img/IMG_5166.jpg)
+4. Once fully assembled, the setup should look like this ![Raspberry Pi , Touchscreen, HQ Camera Setup](../../static/img/fully-
+   assembled.jpg)
