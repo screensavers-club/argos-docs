@@ -7,10 +7,16 @@ sidebar_position: 1
 
 ## About
 
-This component holds the entire thing together. It's made to case everything up. Designed to be easily assembled.
+The Child Node consists of a Raspberry Pi 4 Model B, a HD Webcam with lenses, a Raspberry Pi Touch Display, assembled together in a 3D printed PLA casing. This module is designed to be flexible in its uses and maintenance with features including a mount for tripod use, the option to change camera lenses, and easy access of hardware through the backplate.
 
 ## Raspberry Pi
 
 The hardware used is Raspberry Pi.
 
+## Web Cam with 8mm and 12mm lens
+
+The hardware used is Raspberry Pi.
+
 ## 3D Model
+
+The 3D model is...
