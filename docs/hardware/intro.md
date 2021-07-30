@@ -15,7 +15,7 @@ The hardware used is Raspberry Pi.
 
 ## Web Cam with 8mm and 12mm lens
 
-The hardware used is Raspberry Pi.
+The webcam is HD. We have 2 lenses: 8mm and 12mm.
 
 ## 3D Model
 
