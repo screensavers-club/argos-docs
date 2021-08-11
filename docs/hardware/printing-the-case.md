@@ -9,36 +9,32 @@ This section tells you what to do to print the files
 
 ## Download the files
 
-[Rhino file of all parts](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0/rhino#:~:text=0106_argos%20camera%20mount.3dm)  
-[All .stl files in a folder](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0#:~:text=8%20days%20ago-,stl,-version%201%20stl)  
-All child node casing 3D models can be found [here](https://github.com/screensavers-club/argos-childnode-case)
+[Latest version Rhino file (Rhino 5 and Rhino 7)](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.4)  
+[Latest version .STL files](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.4/stl)  
+All child node casing versions can be found [here](https://github.com/screensavers-club/argos-childnode-case)
 
-Outer Casing  
-Dimensions: xx x yy x zz mm
-![Outer Casing](../../static/img/3d-models/outer-case.png)
-[Download .stl file](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0/stl#:~:text=8%20days%20ago-,0706_outercase.stl,-version%201%20stl)
+**Main Body**  
+Dimensions: 193mm(w) x 68mm(d) x 115mm(h) mm
+![Main Body](../../static/img/3d-models/main-body.jpg)
 
-Inner Mount  
-Dimensions: xx x yy x zz mm
-![Inner Mount](../../static/img/3d-models/inner-case.png)
-[Download .stl file](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0/stl#:~:text=8%20days%20ago-,0706_innercase.stl,-version%201%20stl)
-
-Camera Mount  
-Dimensions: xx x yy x zz mm
-![Inner Mount](../../static/img/3d-models/camera-mount.png)
-[Download .stl file](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0/stl#:~:text=0106_argos%20camera%20mount.stl)
+**Camera Mount**  
+Dimensions: 100mm(w) x 50mm(d) x 50mm(h) mm
+![Camera Mount](../../static/img/3d-models/camera-mount.jpg)
 
 ## The 3D Model
+
+:::danger Outdated!
+These images are outdated. New screenshots will be uploaded ASAP.
+:::
 
 ![Full Model 1](../../static/img/3d-models/full-model-1.png)
 ![Full Model 2](../../static/img/3d-models/full-model-2.png)
 ![Full Model 3](../../static/img/3d-models/full-model-3.png)
 
-The model consists of 3 parts:
+The model consists of 2 parts:
 
-- The inner touchscreen display mount which holds the touchscreen in an upright position
+- The main body which bears the weight of entire setup and keeps it upright.
 - The camera mount which holds the camera
-- The outer case which holds all the components together
 
 The full 3D model includes the electronics components for reference.
 
@@ -47,10 +43,9 @@ The full 3D model includes the electronics components for reference.
 We used [Simplify 3D](https://www.simplify3d.com/) to slice our models. However, you can use any slicer you feel comfortable with as long as you use similar settings.
 
 ![](../../static/img/intro-hardware/slicing.jpg)
-(Use a better image in future updates)
 
 :::tip Note
-Ensure your 3D printer is big enough to print the case.
+Ensure your 3D printer is big enough to print the case. A minimum of 200mm by 200mm print bed is recommended.
 :::
 
 Here are the properties we use for the printing

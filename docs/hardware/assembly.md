@@ -5,58 +5,46 @@ sidebar_position: 5
 
 # Assembly Of Casing
 
-### Assembly Of Inner Mount
+### Assembly Of Main Body
 
-1. Unplug power and all external connections (i.e. keyboard, mouse, camera) from the Raspberry Pi Touchscreen Display.
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+1. Once all the files are printed, gently remove the generated support structures with pliers, cutters, and a small phillip screwdriver or a battery drill (for the screw holes).
+   ![Remove supports](../../static/img/intro-hardware/placeholder.jpg)
 
-2. With the touch screen display on the front of the inner mount part, facing outward, align the screw holes of the touch screen display brackets with the inner mount.
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+2. Separate the components into three parts: 1) The camera sensor and its ribbon cable, 2) The camera lens, and 3) The rest of the component assembly
+   ![Disassembly](../../static/img/intro-hardware/placeholder.jpg)
 
-3. Fasten both parts together using 4 M3 8mm bolts.
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+3. Unplug power and all external connections (i.e. keyboard, mouse, camera) from the Raspberry Pi Touchscreen Display.
+   ![Unplug Raspi](../../static/img/intro-hardware/placeholder.jpg)
+
+4. With the touch screen display on the front of the main body part, facing outward, align the screw holes of the touch screen display brackets with the inner mount.
+
+:::tip Note:
+The USB C port should be facing downwards.
+:::
+
+![Main Body installation](../../static/img/intro-hardware/placeholder.jpg)
+
+5. Fasten both parts together using 4 M3 8mm bolts.
+   ![Securing Main Body](../../static/img/intro-hardware/placeholder.jpg)
 
 ### Assembly Of Camera Mount
 
-4. Once all the files are printed, gently remove the generated support structures with pliers, cutters, and a small phillip screwdriver or a battery drill (for the screw holes).
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+6. Insert the camera from the back of the mount and align the screw holes.
+   ![Camera Mount Assembly](../../static/img/intro-hardware/placeholder.jpg)
 
-5. Align the screw holes of the HQ camera with the camera mount.
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+7. Fasten the HQ camera onto the camera mount using 4 M2.5 8mm bolts and use its corresponding nuts to secure it tightly.
+   ![Camera Mount Security](../../static/img/intro-hardware/placeholder.jpg)
 
-:::tip Note
-Note the installation direction of the camera. The bottom screw holes of the camera is to be aligned to the two protruding screw holes. (see image)
-:::
+8. Slot the camera mount into the top part of the main body piece until the screw hole on the top of the model aligns.
+   ![Assembling both pieces](../../static/img/intro-hardware/placeholder.jpg)
 
-6. Fasten the HQ camera onto the camera mount using 4 M3 8mm bolts.
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+9. Once aligned, use a 10mm M3 bolt to secure the two pieces together. Screw in its corresponding nut at the bottom of the assembly.
+   ![Both pieces assembled](../../static/img/intro-hardware/placeholder.jpg)
 
-7. Detach the HQ Camera's ribbon wire from the touch screen display if it is not already detached.
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+10. The camera lens can now be inserted through the front of the assembly.
+    ![Camera lens](../../static/img/intro-hardware/placeholder.jpg)
 
-### Assembly of the Outer Case
-
-8. Align the screw holes on the base of the inner mount to the base of the outer case.
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
-
-9. Secure both parts with 6 M3 8mm bolts.
-   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
-
-:::tip Note
-Ensure that the touch screen display is flushed to the outer case.
-:::
-
-10. Align the screw holes on the base of the camera mount to the top of the outer case.
-    ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
-
-11. Secure both parts with 4 M3 8mm bolts.
-    ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
-
-:::tip Note
-There should be room for the camera mount part. If there is not, loosen the camera-to-camera mount part to allow for more room.
-:::
-
-12. The assembly is now completed!
+11. The assembly is now completed!
     ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
     ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
     ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)

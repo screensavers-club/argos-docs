@@ -13,7 +13,13 @@ This section lists the exact steps in the assembly of the Child Node Screen Came
 
 :::tip Note
 
-Please ommit 'Step 6: Enclosure Assembly' step as our set up does not require the enclosure.
+Please ommit 'Step 4: Adjust Screen for Rotation' and 'Step 6: Enclosure Assembly' steps as our set up does not require the enclosure and a rotated screen.
+
+:::
+
+:::tip Note
+
+Important! At 'Step 5: Mount Pi to the Adapter Board.', please add the additional M2.5 11mm standoffs provided to each standoff before mounting the Raspberry Pi. This is to offset more height for Raspberry Pi to fit better with the casing.
 
 :::
 
@@ -25,5 +31,4 @@ You may try other commands to view the camera output. For example, you can set t
 
 :::
 
-4. Once fully assembled, the setup should look like this ![Raspberry Pi , Touchscreen, HQ Camera Setup](../../static/img/fully-
-   assembled.jpg)
+4. Once fully assembled, the setup should look like this ![Raspberry Pi , Touchscreen, HQ Camera Setup](../../static/img/intro-hardware/fully-assembled.jpg)
