@@ -13,7 +13,7 @@ This section lists the exact steps in the assembly of the Child Node Screen Came
 
 :::tip Note
 
-Please ommit 'Step 4: Adjust Screen for Rotation' and 'Step 6: Enclosure Assembly' steps as our set up does not require the enclosure and a rotated screen.
+Please omit 'Step 4: Adjust Screen for Rotation' and 'Step 6: Enclosure Assembly' steps as our set up does not require the enclosure and a rotated screen.
 
 :::
 

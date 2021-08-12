@@ -29,22 +29,64 @@ The USB C port should be facing downwards.
 
 ### Assembly Of Camera Mount
 
-6. Insert the camera from the back of the mount and align the screw holes.
-   ![Camera Mount Assembly](../../static/img/intro-hardware/placeholder.jpg)
+**You will need:**
 
-7. Fasten the HQ camera onto the camera mount using 4 M2.5 8mm bolts and use its corresponding nuts to secure it tightly.
-   ![Camera Mount Security](../../static/img/intro-hardware/placeholder.jpg)
+- 1x HD Camera
+- 1x Camera Mount
+- 4x M2.5 10mm bolts
+- 4x M2.5 nuts
+- (optional for the assembly step) 1x Camera lens
 
-8. Slot the camera mount into the top part of the main body piece until the screw hole on the top of the model aligns.
-   ![Assembling both pieces](../../static/img/intro-hardware/placeholder.jpg)
+**Tools needed:**
 
-9. Once aligned, use a 10mm M3 bolt to secure the two pieces together. Screw in its corresponding nut at the bottom of the assembly.
-   ![Both pieces assembled](../../static/img/intro-hardware/placeholder.jpg)
+- Screw driver
+- (optional) Long nose pliers
+- Delicate hands
 
-10. The camera lens can now be inserted through the front of the assembly.
-    ![Camera lens](../../static/img/intro-hardware/placeholder.jpg)
+Before you start, please disassemble the camera into the following parts
 
-11. The assembly is now completed!
-    ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
-    ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
-    ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+![Camera Mount Assembly 1](../../static/img/assembly/camassem-1.jpg)
+
+1. Insert 4 M2.5 10mm bolts into the 4 screw holes from the inner side of the camera mount.
+
+   ![Camera Mount Assembly 2](../../static/img/assembly/camassem-2.jpg)
+
+   ![Camera Mount Assembly 3](../../static/img/assembly/camassem-3.jpg)
+
+2. While the bolts are in place, align the camera to the back outer side of the camera mount
+
+:::tip Tip:
+The bolts in the image here is defying gravity for illustration purposes only. Please assemble the mount in a way that feels comfortable for you. I recommend using a screwdriver to hold the bolts in place as you insert each side of the camera into the bolt.
+:::
+
+![Camera Mount Assembly 4](../../static/img/assembly/camassem-5.jpg)
+
+How it should look like from the inside
+
+![Camera Mount Assembly 5](../../static/img/assembly/camassem-6.jpg)
+
+3. Place the nuts over all the bolts and hand screw it into the bolt until it is able to keep the bolts in place.
+
+   ![Camera Mount Assembly 6](../../static/img/assembly/camassem-8.jpg)
+
+4. To secure it tightly, use a screwdriver to turn the bolt while you hold the nut with your fingers.
+
+   ![Camera Mount Assembly 7](../../static/img/assembly/camassem-7.jpg)
+
+5. Once all the bolts are tightened, the setup should look like this
+
+   ![Camera Mount Assembly 8](../../static/img/assembly/camassem-9.jpg)
+
+   ![Camera Mount Assembly 9](../../static/img/assembly/camassem-10.jpg)
+
+6. The camera lens can now be inserted through the front of the assembly.
+   ![Camera Mount Assembly 10](../../static/img/assembly/camassem-11.jpg)
+
+:::danger Outdated
+The images below are outdated. New images will come in ASAP
+:::
+
+7. The assembly is now completed!
+   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)
+   ![Fully Assembled](../../static/img/intro-hardware/placeholder.jpg)

@@ -5,31 +5,35 @@ sidebar_position: 4
 
 # Printing The Case
 
-This section tells you what to do to print the files
+This section tells you what to do to print the files.
+
+The latest version of the model is Version 2.1.
 
 ## Download the files
 
-[Latest version Rhino file (Rhino 5 and Rhino 7)](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.4)  
-[Latest version .STL files](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.4/stl)  
+[Latest version Rhino file (Rhino 5 and Rhino 7)](https://github.com/screensavers-club/argos-childnode-case/tree/main/2.1)  
+[Latest version .STL files](https://github.com/screensavers-club/argos-childnode-case/tree/main/2.1/stl)  
 All child node casing versions can be found [here](https://github.com/screensavers-club/argos-childnode-case)
 
 **Main Body**  
 Dimensions: 193mm(w) x 68mm(d) x 115mm(h) mm
-![Main Body](../../static/img/3d-models/main-body.jpg)
+
+![Main Body](../../static/img/v2-1/6-overalldim.png)
 
 **Camera Mount**  
-Dimensions: 100mm(w) x 50mm(d) x 50mm(h) mm
-![Camera Mount](../../static/img/3d-models/camera-mount.jpg)
+Dimensions: 91mm(w) x 29mm(d) x 45mm(h) mm
+
+![Camera Mount](../../static/img/v2-1/5-overalldim.png)
 
 ## The 3D Model
 
-:::danger Outdated!
-These images are outdated. New screenshots will be uploaded ASAP.
-:::
+![Full Model 1](../../static/img/v2-1/0-overall.png)
 
-![Full Model 1](../../static/img/3d-models/full-model-1.png)
-![Full Model 2](../../static/img/3d-models/full-model-2.png)
-![Full Model 3](../../static/img/3d-models/full-model-3.png)
+![Full Model 2](../../static/img/v2-1/1-angle.png)
+
+![Full Model 3](../../static/img/v2-1/1-back.png)
+
+![Full Model 4](../../static/img/v2-1/1-front.png)
 
 The model consists of 2 parts:
 
