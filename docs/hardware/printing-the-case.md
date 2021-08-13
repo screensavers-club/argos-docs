@@ -5,40 +5,40 @@ sidebar_position: 4
 
 # Printing The Case
 
-This section tells you what to do to print the files
+This section tells you what to do to print the files.
+
+The latest version of the model is Version 2.1.
 
 ## Download the files
 
-[Rhino file of all parts](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0/rhino#:~:text=0106_argos%20camera%20mount.3dm)  
-[All .stl files in a folder](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0#:~:text=8%20days%20ago-,stl,-version%201%20stl)  
-All child node casing 3D models can be found [here](https://github.com/screensavers-club/argos-childnode-case)
+[Latest version Rhino file (Rhino 5 and Rhino 7)](https://github.com/screensavers-club/argos-childnode-case/tree/main/2.1)  
+[Latest version .STL files](https://github.com/screensavers-club/argos-childnode-case/tree/main/2.1/stl)  
+All child node casing versions can be found [here](https://github.com/screensavers-club/argos-childnode-case)
 
-Outer Casing  
-Dimensions: xx x yy x zz mm
-![Outer Casing](../../static/img/3d-models/outer-case.png)
-[Download .stl file](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0/stl#:~:text=8%20days%20ago-,0706_outercase.stl,-version%201%20stl)
+**Main Body**  
+Dimensions: 193mm(w) x 68mm(d) x 115mm(h) mm
 
-Inner Mount  
-Dimensions: xx x yy x zz mm
-![Inner Mount](../../static/img/3d-models/inner-case.png)
-[Download .stl file](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0/stl#:~:text=8%20days%20ago-,0706_innercase.stl,-version%201%20stl)
+![Main Body](../../static/img/v2-1/6-overalldim.png)
 
-Camera Mount  
-Dimensions: xx x yy x zz mm
-![Inner Mount](../../static/img/3d-models/camera-mount.png)
-[Download .stl file](https://github.com/screensavers-club/argos-childnode-case/tree/main/1.0/stl#:~:text=0106_argos%20camera%20mount.stl)
+**Camera Mount**  
+Dimensions: 91mm(w) x 29mm(d) x 45mm(h) mm
+
+![Camera Mount](../../static/img/v2-1/5-overalldim.png)
 
 ## The 3D Model
 
-![Full Model 1](../../static/img/3d-models/full-model-1.png)
-![Full Model 2](../../static/img/3d-models/full-model-2.png)
-![Full Model 3](../../static/img/3d-models/full-model-3.png)
+![Full Model 1](../../static/img/v2-1/0-overall.png)
 
-The model consists of 3 parts:
+![Full Model 2](../../static/img/v2-1/1-angle.png)
 
-- The inner touchscreen display mount which holds the touchscreen in an upright position
+![Full Model 3](../../static/img/v2-1/1-back.png)
+
+![Full Model 4](../../static/img/v2-1/1-front.png)
+
+The model consists of 2 parts:
+
+- The main body which bears the weight of entire setup and keeps it upright.
 - The camera mount which holds the camera
-- The outer case which holds all the components together
 
 The full 3D model includes the electronics components for reference.
 
@@ -46,11 +46,10 @@ The full 3D model includes the electronics components for reference.
 
 We used [Simplify 3D](https://www.simplify3d.com/) to slice our models. However, you can use any slicer you feel comfortable with as long as you use similar settings.
 
-![](../../static/img/slicing.jpg)
-(Use a better image in future updates)
+![](../../static/img/intro-hardware/slicing.jpg)
 
 :::tip Note
-Ensure your 3D printer is big enough to print the case.
+Ensure your 3D printer is big enough to print the case. A minimum of 200mm by 200mm print bed is recommended.
 :::
 
 Here are the properties we use for the printing
@@ -70,6 +69,6 @@ Place the models in ways which generates the least amount of supports.
 
 Once sliced, you can print the files.
 
-![](../../static/img/printing.jpg)
+![](../../static/img/intro-hardware/printing.jpg)
 Printing the camera mount
 (Add images of the other parts in future updates)

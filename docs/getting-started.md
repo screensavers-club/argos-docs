@@ -16,3 +16,9 @@ Why we created Argos.
 ## Technical References
 
 - [SDP protocol for WebRTC signalling](https://datatracker.ietf.org/doc/html/draft-nandakumar-rtcweb-sdp-08)
+
+## How to setup files for documentation
+
+1. Image optim
+2. Lowercase and naming
+3. Image dimensions
