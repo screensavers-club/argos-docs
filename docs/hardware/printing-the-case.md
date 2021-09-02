@@ -18,22 +18,22 @@ All child node casing versions can be found [here](https://github.com/screensave
 **Main Body**  
 Dimensions: 193mm(w) x 68mm(d) x 115mm(h) mm
 
-![Main Body](../../static/img/v2-1/6-overalldim.png)
+![Main Body](../../static/img/v2-0/6-overalldim.png)
 
 **Camera Mount**  
 Dimensions: 91mm(w) x 29mm(d) x 45mm(h) mm
 
-![Camera Mount](../../static/img/v2-1/5-overalldim.png)
+![Camera Mount](../../static/img/v2-0/5-overalldim.png)
 
 ## The 3D Model
 
-![Full Model 1](../../static/img/v2-1/0-overall.png)
+![Full Model 1](../../static/img/v2-0/0-overall.png)
 
-![Full Model 2](../../static/img/v2-1/1-angle.png)
+![Full Model 2](../../static/img/v2-0/1-angle.png)
 
-![Full Model 3](../../static/img/v2-1/1-back.png)
+![Full Model 3](../../static/img/v2-0/1-back.png)
 
-![Full Model 4](../../static/img/v2-1/1-front.png)
+![Full Model 4](../../static/img/v2-0/1-front.png)
 
 The model consists of 2 parts:
 
