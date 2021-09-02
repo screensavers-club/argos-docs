@@ -26,7 +26,7 @@ Tools to use:
 
 27. Insert the M3 bolts in the front of the frontcover, pushing the bolt all the way in.
 
-![Pi assembly](../../../static/img/assembly/fa3.png)
+![Pi assembly](../../../static/img/assembly/fa4.png)
 
 28. At the back, secure the protruded bolt with the M3 nut.
 
