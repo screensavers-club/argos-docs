@@ -56,7 +56,3 @@ With the Raspberry Pi's USB inputs facing **right**
 - green (SDA): 2nd to the bottom-left
 - yellow (SCL): 3rd to the bottom-left
 - black (GND): 3rd to the top-left
-
-14. Finally, check if the standoff screws are not pushing too much against the screen, to ensure that it does not damage the screen. (This will not happen if you use the correct screw length)
-
-![Pi assembly](../../../static/img/assembly/pi30.jpg)
