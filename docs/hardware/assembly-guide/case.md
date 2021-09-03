@@ -5,7 +5,7 @@ sidebar_position: 5
 
 # Assembling the Case
 
-The items required for the case assembly is:
+The items required for the case are:
 
 - Raspberry Pi & Touch Display assembly
 - Main body part
@@ -19,7 +19,7 @@ Tools to use:
 
 ![Pi assembly](../../../static/img/assembly/case1.png)
 
-14. Insert the hex nut onto the hexagonal slot
+14. Insert the hex nut onto the hexagonal slot. It is advisable to use superglue to keep the hex nut secure in the slot. 
 
 ![Pi assembly](../../../static/img/assembly/case2.png)
 
@@ -27,7 +27,7 @@ Tools to use:
 
 ![Pi assembly](../../../static/img/assembly/case4.png)
 
-15. Secure the nut using the tripod adaptor
+15. Screw in the tripod adapter
 
 ![Pi assembly](../../../static/img/assembly/case5.png)
 
@@ -43,7 +43,7 @@ Tools to use:
 
 ![Pi assembly](../../../static/img/assembly/case10.png)
 
-17. Align the screwholes and tie the 2 components together with the 6mm M3 bolts.
+17. Align the screwholes and screw in the 6mm M3 bolts.
 
 ![Pi assembly](../../../static/img/assembly/case11.png)
 
