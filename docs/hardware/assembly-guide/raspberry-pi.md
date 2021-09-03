@@ -7,10 +7,10 @@ sidebar_position: 2
 
 **You will need:**
 
-- 1x Raspberry Pi
-- 1x Touch Display set (including 4x standoff screws, 1x ribbon cable, 4x jumper cables)
-- 1x micro SD card with Raspberry Pi OS
-- 4x 11mm M2.5 standoffs
+- 1x Raspberry Pi 4 Model B
+- 1x Raspberry Pi Touch Display (7") set (including 4x standoff screws, 1x ribbon cable, 4x jumper cables)
+- 1x `Class 10` microSD card (`16GB` or higher) with Raspbian
+- 4x 11mm `M2.5` standoffs
 
 **Tools needed:**
 
