@@ -5,12 +5,12 @@ sidebar_position: 1
 
 # Removing Supports
 
-Once the model is done printing, the first step is always to remove the supports. Bring along your **pliers** and read on to begin.
+Once the model is done printing, the first step is always to remove the supports. You will need your **pliers**.
 
 ### Removal Of Support Structures
 
-:::tip Be Careful!
-The material can be sharp and so it is recommended to wear gloves or to be cautious when removing the structure.
+:::danger Be Careful!
+The material can be sharp, becareful not to cut yourself.
 :::
 
 1. First, pop out the flimsier supports found at the bottom of the main body case.
