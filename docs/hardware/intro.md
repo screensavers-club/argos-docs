@@ -5,6 +5,10 @@ sidebar_position: 1
 
 # The Child Node Screen Camera Module Casing
 
+## Current Version
+
+The current version is Version 3.2
+
 ## About
 
 The Child Node consists of a Raspberry Pi 4 Model B, a HD Webcam with mountable lenses, a Raspberry Pi Touch Display, assembled together in a 3D printed PLA casing. This module is designed to be flexible in its uses and maintenance with features including a mount for tripod use, the option to change camera lenses, and easy access of hardware.
