@@ -45,7 +45,7 @@ The material can be sharp, becareful not to cut yourself.
 
    ![Remove supports](../../../static/img/assembly/m12.png)
 
-7. For the tripod mount screw and nut area, use a plier to simply pull the support out from the nut side.
+7. For the tripod mount screw and nut area, use a plier to simply pull the support out from the top.
 
    ![Remove supports](../../../static/img/assembly/m13.png)
 
@@ -53,6 +53,6 @@ The material can be sharp, becareful not to cut yourself.
 
    ![Remove supports](../../../static/img/assembly/m15.png)
 
-8. The front cover have some support structure as well. Use pliers to pull them out from the screw holes.
+8. There are support structures on the front cover as well. Use pliers to pull them out from the screw holes.
 
    ![Remove supports](../../../static/img/assembly/f1.png)
