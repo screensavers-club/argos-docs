@@ -10,7 +10,7 @@ The items required for the case are:
 - Raspberry Pi & Touch Display assembly
 - Main body part
 - 4x 6mm M3 screws
-- 1x 1/4" Tripod adaptor
+- 1x 1/4" Tripod adapter
 - 1x 1/4" Hex Nut
 
 Tools to use:
