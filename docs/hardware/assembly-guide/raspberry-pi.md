@@ -19,7 +19,7 @@ sidebar_position: 2
 ![Pi assembly](../../../static/img/assembly/pi1.png)
 
 :::tip Note
-Place the components in the same orientation as the components in the image. It is important that certain components are facing a certain direction.
+Place the components in the same orientation as the image. It is important to note the orientation of the components.
 :::
 
 Continue to the next page.
