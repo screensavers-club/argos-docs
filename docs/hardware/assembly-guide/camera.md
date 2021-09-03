@@ -45,7 +45,7 @@ Tools to use:
 
 ![Pi assembly](../../../static/img/assembly/cam10.png)
 
-24. Insert the ribbon cable and ensure the cable is not slantedly inserted.
+24. Insert the ribbon cable and ensure the cable is not slanted.
 
 ![Pi assembly](../../../static/img/assembly/cam11.png)
 
