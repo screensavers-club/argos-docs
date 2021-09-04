@@ -6,9 +6,9 @@
 
 ## Some Prerequisites
 
-- Feel free to install any command line editor, but as Raspbian comes default with `nano`, this guide will provide commands and isntructions for implementing changes with it.
+- Feel free to install any command line editor, but as Raspbian comes default with `nano`, this guide will provide commands and instructions for implementing changes with it.
 
-- In order to provide consistent integration with the `Web Audio API`, the system's default audio is disabled by default. Please see [this link to a different chapter][#whyisnoaudio] to understand why this is done, and how to change that if you need to do so.
+- In order to provide consistent integration with the `Web Audio API`, the system's default audio is set to a USB Audio Device `defaults.ctl.card 1` and `defaults.pcm.card 1` by default. Please see [this link to a different chapter][#whyisnoaudio] to understand why this is done, and how to change that if you need to do so.
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [#whyisnoaudio]: #CHANGETOLINK
