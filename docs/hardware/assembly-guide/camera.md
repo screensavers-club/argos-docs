@@ -47,6 +47,10 @@ Tools to use:
 
 24. Insert the ribbon cable and ensure the cable is not slanted.
 
+:::warning Fragile!
+Make sure the ribbon cable is correctly aligned with the contacts before pushing down the black tab to avoid damaging the cable. Do not force the ribbon cable with excessive force.
+:::
+
 ![Pi assembly](../../../static/img/assembly/cam11.png)
 
 ![Pi assembly](../../../static/img/assembly/cam12.png)
