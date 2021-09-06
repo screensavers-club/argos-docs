@@ -5,13 +5,54 @@ sidebar_position: 4
 
 # Attaching The Raspberry Pi To The Screen
 
-1. Attach all 4 11mm M2.5 hex standoffs onto the 7" Touch Display. Refer to the image below. 
+Before installation, ensure the orientation of the screen aligns with the image. The yellow chip should be on the **down** position.
+
+1. First, we will install the jumper wires.
+
+![Pi assembly](../../../static/img/assembly/pi7.png)
+
+2. Insert the wires as such:
+
+| colour | pin | Position (from the left) |
+| ------ | --- | ------------------------ |
+| red    | 5V  | 1                        |
+| green  | SDA | 3                        |
+| yellow | SCL | 4                        |
+| black  | GND | 5                        |
+
+![Pi assembly](../../../static/img/assembly/pi9.png)
+
+3. Next, we will install the ribbon cable
+
+![Pi assembly](../../../static/img/assembly/pi10.png)
+
+4. On the **left** of the Raspberry Pi 7" Touch Display, you will see the display input port that has a black tab. It should be labelled "RPI-DISPLAY".
+
+![Pi assembly](../../../static/img/assembly/pi11.png)
+
+5. Open the black tab.
+
+![Pi assembly](../../../static/img/assembly/pi12.png)
+
+6. Insert the ribbon cable. The pins on the cable shoule be pointing **away** from the black tab, facing you in this set up.
+
+![Pi assembly](../../../static/img/assembly/pi13.png)
+
+7. Close the black tab once the ribbon cable is secure.
+
+:::warning Fragile!
+Make sure the ribbon cable is correctly aligned with the contacts before pushing down the black tab to avoid damaging the cable. Do not force the ribbon cable with excessive force.
+:::
+
+![Pi assembly](../../../static/img/assembly/pi14.png)
+
+8. Attach all 4 11mm M2.5 hex standoffs onto the 7" Touch Display. Refer to the image below.
 
 ![Pi assembly](../../../static/img/assembly/pi15.png)
 
 ![Pi assembly](../../../static/img/assembly/pi16.png)
 
-2. With the Raspberry Pi's USB inputs facing **right** of the current setup, place it on top of the Touch Display, aligning the screwholes.
+9. With the Raspberry Pi's USB inputs facing **right** of the current setup, place it on top of the Touch Display, aligning the screwholes.
 
 ![Pi assembly](../../../static/img/assembly/pi17.png)
 
@@ -30,8 +71,8 @@ sidebar_position: 4
 12. Pick up the ribbon cable and plug it into the open port. Do note that the pins are facing **away** from the black tab. Close the black tab when the cable is secure.
 
 :::warning Fragile!
-Make sure the ribbon cable is correctly aligned with the contacts before pushing down the black tab to avoid damaging the cable. Do not force the ribbon cable with excessive force. 
-::: 
+Make sure the ribbon cable is correctly aligned with the contacts before pushing down the black tab to avoid damaging the cable. Do not force the ribbon cable with excessive force.
+:::
 
 ![Pi assembly](../../../static/img/assembly/pi22.png)
 
@@ -53,13 +94,13 @@ Top down view of where each cable is plugged in:
 
 ![Pi assembly](../../../static/img/assembly/pi29.jpg)
 
-Refer to the following table and pinout diagram to ensure the cables are plugged in correctly. 
+Refer to the following table and pinout diagram to ensure the cables are plugged in correctly.
 
-| colour |  pin | pin number on Raspberry Pi |
-| ---- | ---- | --- |
-| red |  5V |  4 |
-| green | SDA | 3 |
-| yellow | SCL | 5 |
-| black | GND | 6 |
+| colour | pin | pin number on Raspberry Pi |
+| ------ | --- | -------------------------- |
+| red    | 5V  | 4                          |
+| green  | SDA | 3                          |
+| yellow | SCL | 5                          |
+| black  | GND | 6                          |
 
 ![Pinout diagram](https://www.raspberrypi.org/documentation/computers/images/GPIO-Pinout-Diagram-2.png)
