@@ -18,20 +18,20 @@ Tools to use:
 
 ![Pi assembly](../../static/img/assembly/fa1.png)
 
-26. Place the cover over the screen.
+1. Place the cover over the screen.
 
 ![Pi assembly](../../static/img/assembly/fa3.png)
 
 ![Pi assembly](../../static/img/assembly/fa2.png)
 
-27. Insert the M3 bolts in the front of the frontcover, pushing the bolt all the way in.
+2. Insert the M3 bolts in the front of the frontcover, pushing the bolt all the way in.
 
 ![Pi assembly](../../static/img/assembly/fa4.png)
 
-28. At the back, secure the protruded bolt with the M3 nut.
+3. At the back, secure the protruded bolt with the M3 nut.
 
 :::tip Note
 
-This section is incomplete as the more updated parts are still printing.
+These instructions are out of date as of current model. The new instructions will come in after the next review
 
 :::
