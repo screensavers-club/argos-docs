@@ -16,17 +16,17 @@ Tools to use:
 
 - Screw driver or battery drill
 
-![Pi assembly](../../../static/img/assembly/fa1.png)
+![Pi assembly](../../static/img/assembly/fa1.png)
 
 26. Place the cover over the screen.
 
-![Pi assembly](../../../static/img/assembly/fa3.png)
+![Pi assembly](../../static/img/assembly/fa3.png)
 
-![Pi assembly](../../../static/img/assembly/fa2.png)
+![Pi assembly](../../static/img/assembly/fa2.png)
 
 27. Insert the M3 bolts in the front of the frontcover, pushing the bolt all the way in.
 
-![Pi assembly](../../../static/img/assembly/fa4.png)
+![Pi assembly](../../static/img/assembly/fa4.png)
 
 28. At the back, secure the protruded bolt with the M3 nut.
 
