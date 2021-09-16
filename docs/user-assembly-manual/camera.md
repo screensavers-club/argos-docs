@@ -58,3 +58,7 @@ Make sure the ribbon cable is correctly aligned with the contacts before pushing
 7. Close the black tab to secure the cable
 
 ![Pi assembly](../../static/img/assembly/cam13.png)
+
+# Video Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4fkaIyUBNZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

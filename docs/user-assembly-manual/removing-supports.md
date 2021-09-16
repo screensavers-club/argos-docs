@@ -56,3 +56,7 @@ The material can be sharp, becareful not to cut yourself.
 8. There are support structures on the front cover as well. Use pliers to pull them out from the screw holes.
 
    ![Remove supports](../../static/img/assembly/f1.png)
+
+# Video Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QzAF7cDsltc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

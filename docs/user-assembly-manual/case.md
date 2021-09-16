@@ -56,3 +56,7 @@ Tools to use:
 ![Pi assembly](../../static/img/assembly/case14.png)
 
 ![Pi assembly](../../static/img/assembly/pi30.jpg)
+
+# Video Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B0PmtD7YZZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

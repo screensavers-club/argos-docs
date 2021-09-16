@@ -22,4 +22,8 @@ sidebar_position: 2
 Place the components in the same orientation as the image. It is important to note the orientation of the components.
 :::
 
-Continue to the next page.
+Continue to the next page to view the rest of the instructions.
+
+You may also watch our assembly demo video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQSX9idGnNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
