@@ -5,6 +5,10 @@ sidebar_position: 6
 
 # Assembling the Camera
 
+:::warning Outdated!
+The following assembly instructions are best applied for **version 3.2 and version 3.3** of the child node case.
+:::
+
 The items required for the case assembly is:
 
 - Current assembly
@@ -14,6 +18,12 @@ The items required for the case assembly is:
 Tools to use:
 
 - Screw driver or battery drill
+
+## Assembly Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4fkaIyUBNZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Step By Step Instructions
 
 ![Pi assembly](../../static/img/assembly/cam1.png)
 
@@ -58,7 +68,3 @@ Make sure the ribbon cable is correctly aligned with the contacts before pushing
 7. Close the black tab to secure the cable
 
 ![Pi assembly](../../static/img/assembly/cam13.png)
-
-# Video Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4fkaIyUBNZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

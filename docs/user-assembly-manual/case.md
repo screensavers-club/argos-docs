@@ -5,6 +5,10 @@ sidebar_position: 5
 
 # Assembling the Case
 
+:::warning Outdated!
+The following assembly instructions are best applied for **version 3.2 and version 3.3** of the child node case.
+:::
+
 The items required for the case are:
 
 - Raspberry Pi & Touch Display assembly
@@ -16,6 +20,12 @@ The items required for the case are:
 Tools to use:
 
 - Screw driver or battery drill
+
+## Assembly Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B0PmtD7YZZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Step By Step Instructions
 
 ![Pi assembly](../../static/img/assembly/case1.png)
 
@@ -56,7 +66,3 @@ Tools to use:
 ![Pi assembly](../../static/img/assembly/case14.png)
 
 ![Pi assembly](../../static/img/assembly/pi30.jpg)
-
-# Video Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B0PmtD7YZZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

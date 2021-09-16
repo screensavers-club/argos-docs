@@ -5,9 +5,13 @@ sidebar_position: 1
 
 # Removing Supports
 
-Once the model is done printing, the first step is always to remove the supports. You will need your **pliers**.
+Once the model is done printing, the first step is always to remove the supports. You will need to use **pliers**.
 
-### Removal Of Support Structures
+## Video Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QzAF7cDsltc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Removal Of Support Structures
 
 :::danger Be Careful!
 The material can be sharp, becareful not to cut yourself.
@@ -56,7 +60,3 @@ The material can be sharp, becareful not to cut yourself.
 8. There are support structures on the front cover as well. Use pliers to pull them out from the screw holes.
 
    ![Remove supports](../../static/img/assembly/f1.png)
-
-# Video Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QzAF7cDsltc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
