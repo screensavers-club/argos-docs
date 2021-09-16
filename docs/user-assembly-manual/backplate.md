@@ -5,6 +5,10 @@ sidebar_position: 8
 
 # Assembling the Backplate
 
+:::warning Outdated!
+The following assembly instructions are best applied for **version 3.2 and version 3.3** of the child node case.
+:::
+
 The items required for the case assembly is:
 
 - Current assembly
