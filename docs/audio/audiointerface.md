@@ -1,4 +1,4 @@
-# Implementing Audio Changes from Raspbian Install
+# Using an Audio Interface
 ## Requirements
 - 1 x Class Compliant USB Audio Device
 
