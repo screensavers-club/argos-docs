@@ -5,6 +5,8 @@ sidebar_position: 10
 
 # 10. Software Guide
 
+![main screen](../../static/img/guide/child/child-guide-1.png)
+
 The main screen is split into two sections: the **Available Rooms** on the left, and **Function Buttons** on the right. The room names are randomly generated names made out of combination of fruits.
 
 ![main screen](../../static/img/guide/child/child-1.png)
