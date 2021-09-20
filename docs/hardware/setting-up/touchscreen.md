@@ -1,9 +1,9 @@
 ---
-Title: Setting Up 7" Touch Screen Display
+Title: 3b. Setting Up 7" Touch Screen Display
 sidebar_position: 2
 ---
 
-# Setting Up The 7" Touch Screen Display
+# 3b. Setting Up The 7" Touch Screen Display
 
 :::tip Note
 

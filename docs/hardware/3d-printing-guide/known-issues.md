@@ -1,9 +1,9 @@
 ---
-Title: Known Issues
+Title: 4e. Known Issues
 sidebar_position: 5
 ---
 
-# Known Issues
+# 4e. Known Issues
 
 3D Printing has its issues. Here are some that we found. Note, our fixes may only be specific to our own setup, and as such, please check online for any generic fixes first before trying ours.
 

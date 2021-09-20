@@ -1,11 +1,13 @@
 ---
-Title: Removing Supports
+Title: 1. Removing Supports
 sidebar_position: 1
 ---
 
-# Removing Supports
+# 1. Removing Supports
 
-Once the model is done printing, the first step is always to remove the supports. You will need to use **pliers**.
+Once the model is done printing, the first step is always to remove the supports.
+
+You will need to use `pliers`
 
 ## Video Tutorial
 
@@ -16,6 +18,8 @@ Once the model is done printing, the first step is always to remove the supports
 :::danger Be Careful!
 The material can be sharp, becareful not to cut yourself.
 :::
+
+### Main Body
 
 1. First, pop out the flimsier supports found at the bottom of the main body case.
 
@@ -57,6 +61,12 @@ The material can be sharp, becareful not to cut yourself.
 
    ![Remove supports](../../static/img/assembly/m15.png)
 
+   ### Front Cover
+
 8. There are support structures on the front cover as well. Use pliers to pull them out from the screw holes.
 
    ![Remove supports](../../static/img/assembly/f1.png)
+
+9. There are supports behind the hooks at the top of the front cover as well. It is important to remove this as the front cover may not fit onto the main body without removing this support.
+
+(Please insert image when it's ready)

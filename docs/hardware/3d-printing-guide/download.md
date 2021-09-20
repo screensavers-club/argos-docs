@@ -1,11 +1,10 @@
 ---
-Title: Download Files
+Title: 4a. Download Files
 sidebar_position: 1
 ---
 
-# Download Files
+# 4a. Download Files
 
-[Latest version Rhino file (Rhino 5)](https://github.com/screensavers-club/argos-childnode-case/tree/main/3.2)  
 [Latest version .STL files](https://github.com/screensavers-club/argos-childnode-case/tree/main/3.2/stl)  
 All child node casing versions can be found [here](https://github.com/screensavers-club/argos-childnode-case)
 

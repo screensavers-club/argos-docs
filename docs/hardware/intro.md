@@ -1,9 +1,9 @@
 ---
-Title: The Child Node Module
+Title: 1. The Child Node Module
 sidebar_position: 1
 ---
 
-# The Child Node Module
+# 1. The Child Node Module
 
 ## Current Version
 
