@@ -1,25 +1,22 @@
 ---
-Title: Assembling the Case
+Title: 5. Assembling the Case
 sidebar_position: 5
 ---
 
-# Assembling the Case
+# 5. Assembling the Case
 
-:::warning Outdated!
-The following assembly instructions are best applied for **version 3.2 and version 3.3** of the child node case.
-:::
-
-The items required for the case are:
+**The items required for the case are:**
 
 - Raspberry Pi & Touch Display assembly
-- Main body part
-- 4x 6mm M3 screws
-- 1x 1/4" Tripod adapter
-- 1x 1/4" Hex Nut
+- Main body piece
+- 4x `6mm` `M3` screws
+- 1x `1/4"` `Tripod Adapter Screw`
+- 1x `1/4"` `Hex Nut`
 
 Tools to use:
 
-- Screw driver or battery drill
+- `Screw driver` or `battery drill`
+- `Super glue` (optional)
 
 ## Assembly Video
 
@@ -29,7 +26,7 @@ Tools to use:
 
 ![Pi assembly](../../static/img/assembly/case1.png)
 
-1. Insert the hex nut onto the hexagonal slot. It is advisable to use superglue to keep the hex nut secure in the slot.
+1. Insert the `hex nut` onto the hexagonal slot. It is advisable to use **superglue** to keep the hex nut secure in the slot.
 
 ![Pi assembly](../../static/img/assembly/case2.png)
 
@@ -37,7 +34,7 @@ Tools to use:
 
 ![Pi assembly](../../static/img/assembly/case4.png)
 
-2. Screw in the tripod adapter
+2. Screw in the `tripod adapter`
 
 ![Pi assembly](../../static/img/assembly/case5.png)
 
@@ -47,13 +44,13 @@ Tools to use:
 
 ![Pi assembly](../../static/img/assembly/case8.png)
 
-3. With the yellow chip facing downwards, insert the Raspberry Pi assembly into the hole in front of the main body.
+3. With the **yellow chip facing downwards**, insert the **Raspberry Pi assembly** through the hole in **front of the main body**.
 
 ![Pi assembly](../../static/img/assembly/case9.png)
 
 ![Pi assembly](../../static/img/assembly/case10.png)
 
-4. Align the screwholes and screw in the 6mm M3 bolts.
+4. Align the screwholes and screw in the `6mm M3 bolts`.
 
 ![Pi assembly](../../static/img/assembly/case11.png)
 
@@ -61,7 +58,7 @@ Tools to use:
 
 ![Pi assembly](../../static/img/assembly/case13.png)
 
-5. Finally, check if the standoff screws are not pushing too much against the screen, to ensure that it does not damage the screen. (This will not happen if you use the correct screw length)
+5. Finally, **check if the standoff screws are not pushing too much against the screen**, to ensure that it does not damage the screen. (This will not happen if you use the correct screw length)
 
 ![Pi assembly](../../static/img/assembly/case14.png)
 

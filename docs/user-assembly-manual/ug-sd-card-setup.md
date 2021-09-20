@@ -1,9 +1,9 @@
 ---
-Title: Insert the SD Card
+Title: 3. Insert the SD Card
 sidebar_position: 3
 ---
 
-# Insert Raspberry Pi SD Card
+# 3. Insert Raspberry Pi SD Card
 
 1. Pick up the Raspberry Pi and flip it to the underside.
 

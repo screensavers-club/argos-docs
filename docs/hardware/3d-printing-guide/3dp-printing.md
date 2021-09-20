@@ -1,9 +1,9 @@
 ---
-Title: Printing The Model
+Title: 4d. Printing The Model
 sidebar_position: 4
 ---
 
-# Printing The Model
+# 4d. Printing The Model
 
 **We are using JG Aurora A5. The following steps will mostly apply to this 3D printer, but the general steps to start a print are similar.**
 

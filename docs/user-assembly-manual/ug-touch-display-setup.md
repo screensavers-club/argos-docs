@@ -1,9 +1,9 @@
 ---
-Title: Attaching The Raspberry Pi To The Screen
+Title: 4. Attaching The Raspberry Pi To The Screen
 sidebar_position: 4
 ---
 
-# Attaching The Raspberry Pi To The Screen
+# 4. Attaching The Raspberry Pi To The Screen
 
 Before installation, ensure the orientation of the screen aligns with the image. The yellow chip should be on the **down** position.
 

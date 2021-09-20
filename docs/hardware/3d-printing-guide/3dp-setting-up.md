@@ -1,9 +1,9 @@
 ---
-Title: Setting Up The Print
+Title: 4c. Setting Up The Print
 sidebar_position: 3
 ---
 
-# Setting Up The Print
+# 4c. Setting Up The Print
 
 :::tip Note
 Ensure your 3D printer is big enough to print the case. A minimum of 220mm by 220mm print bed is recommended.

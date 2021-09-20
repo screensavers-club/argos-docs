@@ -1,9 +1,9 @@
 ---
-Title: What You'll Need
+Title: 2. What You'll Need
 sidebar_position: 2
 ---
 
-# What You'll Need
+# 2. What You'll Need
 
 Refer to this [link](https://docs.google.com/spreadsheets/d/1_uIQNqr7DHm4aWreP0g8PzooJxB9vwsrXJ6rtsHg4Rk/edit?usp=sharing) to see the excel sheet of components and the links.
 

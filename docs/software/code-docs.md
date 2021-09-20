@@ -30,3 +30,6 @@ Using xState
 
 Receiving Payload from Livekit
 [Example](https://steep-judo-e9e.notion.site/Livekit-Receiving-Payload-a1880a49f0214e85932e783192c9b035)
+
+Using useRef to create Modal
+[Example](https://steep-judo-e9e.notion.site/Using-useRef-to-create-Modal-e044dc1798714fc48894f0d488989688)

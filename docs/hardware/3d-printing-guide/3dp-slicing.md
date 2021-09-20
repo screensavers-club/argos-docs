@@ -1,9 +1,9 @@
 ---
-Title: Slicing
+Title: 4b. Slicing
 sidebar_position: 2
 ---
 
-# Slicing
+# 4b. Slicing
 
 We used [Simplify 3D](https://www.simplify3d.com/) to slice our models. However, you can use any slicer you feel comfortable with as long as you use similar settings.
 
