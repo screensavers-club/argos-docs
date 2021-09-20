@@ -7,7 +7,7 @@ sidebar_position: 2
 
 :::tip Note
 
-We have actually included the touch screen setup in our [Assembly Guide](../../user-assembly-manual/raspberry-pi). The only relevant instructions here is to install the on-screen keyboard. That said, this tutorial will still be kept here in case you wish to set-up the touchscreen before you assemble the case.
+We have actually included the touch screen setup in our [Assembly Guide](../../user-assembly-manual/ug-raspberry-pi-setup). The only relevant instructions here is to install the on-screen keyboard. That said, this tutorial will still be kept here in case you wish to set-up the touchscreen before you assemble the case.
 
 :::
 
