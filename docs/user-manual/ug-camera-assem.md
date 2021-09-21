@@ -66,8 +66,7 @@ Make sure the ribbon cable is correctly aligned with the contacts before pushing
 
 ![Pi assembly](../../static/img/assembly/cam13.png)
 
-8. Install the `8mm CS Mount Lens` onto the camera
-   (insert lens image)
+8. (Optional) Install the `8mm CS Mount Lens` onto the camera
 
 :::warning Note
 
