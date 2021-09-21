@@ -43,6 +43,15 @@ We used [Simplify 3D](https://www.simplify3d.com/) to slice our models. However,
 You may use your own settings as well! These are just the recommended settings as we have been using these settings for the prototypes.
 :::
 
+Here is a table documenting the different print speeds of a main body. (Pls revisit to provide more accurate values)
+
+| Speed               | Quality | Infill | Estimated Duration | Actual Duration |
+| ------------------- | ------- | ------ | ------------------ | --------------- |
+| 5000mm/min (83mm/s) | Medium  | 15%    | 12 hrs             | 14 hrs          |
+| 5000mm/min (83mm/s) | Low     | 15%    | 10.5hrs            | 12 hrs          |
+
+After trying to print on low quality, we realised there was not much difference other than the tolerance which was not a big problem. This is especially helpful if there is a need to print quickly.
+
 :::warning Note
 As all printers are different, there are many printer default settings that you do not need to change or follow. The only things you should take note are: material, quality, supports, infills, temperature. Everything else you may leave as default.
 :::
