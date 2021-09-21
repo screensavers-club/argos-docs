@@ -33,3 +33,14 @@ Receiving Payload from Livekit
 
 Using useRef to create Modal
 [Example](https://steep-judo-e9e.notion.site/Using-useRef-to-create-Modal-e044dc1798714fc48894f0d488989688)
+
+- Randomly generating room names
+
+- Obtaining and checking key
+
+- document livekit and how we go about with the video and video arrangement
+
+- document input text system and password system (how we do the password system)
+  limit 5 character
+  limit to numericals
+  shake when wrong password

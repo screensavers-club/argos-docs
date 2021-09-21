@@ -22,3 +22,15 @@ Please be careful when writing files. You may corrupt your computer's disk if yo
 :::
 
 Using method 2 will be faster in the long run as there will be no need to do any configuration after the image is installed onto the SD card.
+
+### Other Necessary Configurations
+
+There are 2 HDMI Micro ports on the Raspberry Pi. Each of them is specific to HDMI 1 and HDMI 0 which are not cross-compatible by default. There is a need to configure the Raspberry Pi software to make them cross-compatible. This step is important to allow HDMI cables of different types to fit into any port.
+
+1. Open the terminal
+
+2. Enter `sudo nano /boot/config.txt`
+
+3. Inside the config file, find and uncomment `hdmi_force_hotplug=1`
+
+4. Once that is done, press `ctrl + x` and then `enter` to exit the terminal.
