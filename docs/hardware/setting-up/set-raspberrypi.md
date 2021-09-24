@@ -33,17 +33,35 @@ Launching the program, this is what you will see
 
 Click `Flash from file` and select the correct ISO file.
 
+![flash from file](/img/etcher/flash-from-file.png)
+
+![choosing file](/img/etcher/choosing-file.png)
+
 Next, select the target drive which is the newly inserted SD card.
 
 :::danger DANGER
 Check that you have selected the correct drives. Failing to do so may overwrite your computer's disk.
 :::
 
+![select target](/img/etcher/select-target.png)
+
+![target selected](/img/etcher/target-selected.png)
+
 Finally, click `Flash!` to begin flashing.
+
+![flash](/img/etcher/flash.png)
+
+Enter password and allow the program to use the drive
+
+![admin](/img/etcher/admin.png)
+
+The flashing will begin
+
+![flashing](/img/etcher/flashing.png)
 
 Once it's done, you may remove the drive and start flashing a new SD card.
 
-### Other Necessary Configurations
+### Other Configurations
 
 There are 2 HDMI Micro ports on the Raspberry Pi. Each of them is specific to HDMI 1 and HDMI 0 which are not cross-compatible by default. There is a need to configure the Raspberry Pi software to make them cross-compatible. This step is important to allow HDMI cables of different types to fit into any port.
 
