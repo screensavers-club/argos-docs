@@ -23,7 +23,47 @@ Please be careful when writing files. You may corrupt your computer's disk if yo
 
 Using method 2 will be faster in the long run as there will be no need to do any configuration after the image is installed onto the SD card.
 
-### Other Necessary Configurations
+### Method 3: Using BalenaEtcher
+
+[BalenaEtcher](https://www.balena.io/etcher/) is a tool that you can use to flash SD cards. Download the program to begin. You should also have the ISO image ready.
+
+Launching the program, this is what you will see
+
+![etcher main](/img/etcher/etcher-main.png)
+
+Click `Flash from file` and select the correct ISO file.
+
+![flash from file](/img/etcher/flash-from-file.png)
+
+![choosing file](/img/etcher/choosing-file.png)
+
+Next, select the target drive which is the newly inserted SD card.
+
+:::danger DANGER
+Check that you have selected the correct drives. Failing to do so may overwrite your computer's disk.
+:::
+
+![select target](/img/etcher/select-target.png)
+
+![target selected](/img/etcher/target-selected.png)
+
+Finally, click `Flash!` to begin flashing.
+
+![flash](/img/etcher/flash.png)
+
+Enter password and allow the program to use the drive
+
+![admin](/img/etcher/admin.png)
+
+The flashing will begin
+
+![flashing](/img/etcher/flashing.png)
+
+Once it's done, you may remove the drive and start flashing a new SD card.
+
+![finished](/img/etcher/finished.png)
+
+### Other Configurations
 
 There are 2 HDMI Micro ports on the Raspberry Pi. Each of them is specific to HDMI 1 and HDMI 0 which are not cross-compatible by default. There is a need to configure the Raspberry Pi software to make them cross-compatible. This step is important to allow HDMI cables of different types to fit into any port.
 
