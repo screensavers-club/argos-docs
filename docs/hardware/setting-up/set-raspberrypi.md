@@ -61,6 +61,8 @@ The flashing will begin
 
 Once it's done, you may remove the drive and start flashing a new SD card.
 
+![finished](/img/etcher/finished.png)
+
 ### Other Configurations
 
 There are 2 HDMI Micro ports on the Raspberry Pi. Each of them is specific to HDMI 1 and HDMI 0 which are not cross-compatible by default. There is a need to configure the Raspberry Pi software to make them cross-compatible. This step is important to allow HDMI cables of different types to fit into any port.
