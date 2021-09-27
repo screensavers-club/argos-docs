@@ -65,6 +65,10 @@ Once it's done, you may remove the drive and start flashing a new SD card.
 
 ### Other Configurations
 
+**Onscreen Keyboard**
+Follow the [following tutorial](https://pimylifeup.com/raspberry-pi-on-screen-keyboard/) to install on-screen keyboard
+
+**HDMI Port Configuration**
 There are 2 HDMI Micro ports on the Raspberry Pi. Each of them is specific to HDMI 1 and HDMI 0 which are not cross-compatible by default. There is a need to configure the Raspberry Pi software to make them cross-compatible. This step is important to allow HDMI cables of different types to fit into any port.
 
 1. Open the terminal

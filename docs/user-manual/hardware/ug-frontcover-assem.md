@@ -16,6 +16,10 @@ Tools to use:
 
 - `Screw driver` or `battery drill`
 
+## Video Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SrRH9wOQwfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![front cover assembly](/img/assembly/fc1.png)
 
 1. Hook the **top part** of the front cover over the top part of the main body. Then, align the **front cover** with the **main body** over the touch display screen.

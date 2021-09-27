@@ -16,6 +16,10 @@ Tools to use:
 
 - `Screw driver` or `battery drill`
 
+## Video Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qi6-DX0lSx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![backplate](/img/assembly/bp-assem1.png)
 
 1. Place the back plate over the back of the case, aligning the 4 screw holes together

@@ -11,6 +11,11 @@ You will need to use `pliers`
 
 ## Video Tutorial
 
+:::tip Note
+Please note that there is additional support structure to be removed from the front cover that is not documented in the video. It is documented in images below.
+
+:::
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QzAF7cDsltc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Removal Of Support Structures
@@ -63,10 +68,16 @@ The material can be sharp, becareful not to cut yourself.
 
    ### Front Cover
 
+![Remove supports](/img/assembly/fc-sup1.jpg)
+
 8. There are support structures on the front cover as well. Use pliers to pull them out from the screw holes.
 
    ![Remove supports](/img/assembly/f1.png)
 
 9. There are supports behind the hooks at the top of the front cover as well. It is important to remove this as the front cover may not fit onto the main body without removing this support.
 
-(Please insert image when it's ready)
+![Remove supports](/img/assembly/fc-sup2.jpg)
+
+![Remove supports](/img/assembly/fc-sup3.jpg)
+
+![Remove supports](/img/assembly/fc-sup4.jpg)
