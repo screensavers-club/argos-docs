@@ -5,8 +5,13 @@ sidebar_position: 1
 
 # 4a. Download Files
 
-[Latest version .STL files](https://github.com/screensavers-club/argos-childnode-case/tree/main/3.2/stl)  
+[Latest version .STL files](https://github.com/screensavers-club/argos-childnode-case/tree/main/3.4/stl)  
 All child node casing versions can be found [here](https://github.com/screensavers-club/argos-childnode-case)
+
+:::warning Note
+The dimensions and images are of version 3.2 of the Argos Unit and as such, measurements are not accurate. We will push an updated dimension soon. For now, the dimensions are similar as the current models are based off this model.
+
+:::
 
 **Main Body**  
 Dimensions: 193mm(w) x 68mm(d) x 151mm(h) mm
@@ -33,7 +38,7 @@ Dimensions: 120mm(w) x 13mm(d) x 153mm(h) mm
 
 ![Full Model 1](../../../static/img/v3-2/3-2-1.png)
 
-The full model takes approximately 20-30 hours to print, depending on the 3D printer.
+The full model takes approximately 15-30 hours to print, depending on the 3D printer.
 
 The model consists of 3 parts:
 
