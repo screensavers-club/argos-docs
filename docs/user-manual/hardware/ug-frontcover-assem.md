@@ -5,10 +5,6 @@ sidebar_position: 7
 
 # 7. Assembling the Front Cover
 
-:::warning Outdated!
-The images for the following instructions are outdated.
-:::
-
 **The items required for the case assembly is:**
 
 - Current assembly
