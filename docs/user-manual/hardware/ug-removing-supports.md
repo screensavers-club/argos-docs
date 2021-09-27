@@ -11,6 +11,11 @@ You will need to use `pliers`
 
 ## Video Tutorial
 
+:::tip Note
+Please note that there is additional support structure to be removed from the front cover that is not documented in the video. It is documented in images below.
+
+:::
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QzAF7cDsltc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Removal Of Support Structures

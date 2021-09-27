@@ -9,7 +9,7 @@ sidebar_position: 10
 To be revised.
 :::
 
-https://youtu.be/BaW_OIyLwVM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaW_OIyLwVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![main screen](/img/guide/child/child-guide-1.png)
 

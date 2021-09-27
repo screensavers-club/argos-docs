@@ -18,7 +18,7 @@ Tools to use:
 
 ## Video Tutorial
 
-https://youtu.be/Qi6-DX0lSx4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qi6-DX0lSx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![backplate](/img/assembly/bp-assem1.png)
 
