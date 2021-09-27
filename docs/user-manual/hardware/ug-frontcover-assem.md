@@ -20,24 +20,36 @@ Tools to use:
 
 - `Screw driver` or `battery drill`
 
-![Pi assembly](/img/assembly/fa1.png)
+![front cover assembly](/img/assembly/fc1.png)
 
-1. Hook the **top part** of the front cover over the top part of the main body.
+1. Hook the **top part** of the front cover over the top part of the main body. Then, align the **front cover** with the **main body** over the touch display screen.
 
-![Pi assembly](/img/assembly/fa3.png)
+![aligning 1](/img/assembly/fc2.png)
 
-2. Align the **front cover** with the **main body** over the touch display screen.
+![aligning 2](/img/assembly/fc3.png)
 
-![Pi assembly](/img/assembly/fa2.png)
+![aligning 3](/img/assembly/fc4.png)
 
-3. Insert two `10mm M3 bolts` through the bottom of the front cover.
+![aligning 4](/img/assembly/fc6.png)
 
-![Pi assembly](/img/assembly/fa4.png)
+![aligning 5](/img/assembly/fc7.png)
 
-4. On the back of the assembly, use two `M3 nuts` to lock the screws in place.
+![aligning 6](/img/assembly/fc8.png)
 
-:::tip Note
+3. Insert a `10mm M3 bolt` through one of the screw holes at the bottom of the front cover. Use a screwdriver to hold it in place.
 
-These instructions are out of date as of current model. The new instructions will come in after the next review
+![m3 bolt](/img/assembly/fc9.png)
 
-:::
+![holding in place](/img/assembly/fc10.png)
+
+4. On the back of the assembly, use an `M3 nut` to lock the bolt in place. Applying pressure onto the bolt, place the nut over the thread and turn it with your finger. You may also try turning the screwdriver to screw the bolt into the nut.
+
+![m3 nut](/img/assembly/fc11.png)
+
+![holding in place](/img/assembly/fc12.png)
+
+![screw with finger](/img/assembly/fc14.png)
+
+5. Repeat on the other side, and the assembly will be complete.
+
+![Completed assembly](/img/assembly/fc15.png)
