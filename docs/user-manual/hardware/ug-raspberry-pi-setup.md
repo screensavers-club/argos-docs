@@ -20,7 +20,7 @@ sidebar_position: 2
 
 - `Screw driver` or `battery drill`
 
-![Pi assembly](../../static/img/assembly/pi1.png)
+![Pi assembly](/img/assembly/pi1.png)
 
 :::tip Note
 Place the components in the same orientation as the image. It is important to note the orientation of the components.

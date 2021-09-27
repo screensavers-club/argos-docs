@@ -20,19 +20,19 @@ Tools to use:
 
 - `Screw driver` or `battery drill`
 
-![Pi assembly](../../static/img/assembly/fa1.png)
+![Pi assembly](/img/assembly/fa1.png)
 
 1. Hook the **top part** of the front cover over the top part of the main body.
 
-![Pi assembly](../../static/img/assembly/fa3.png)
+![Pi assembly](/img/assembly/fa3.png)
 
 2. Align the **front cover** with the **main body** over the touch display screen.
 
-![Pi assembly](../../static/img/assembly/fa2.png)
+![Pi assembly](/img/assembly/fa2.png)
 
 3. Insert two `10mm M3 bolts` through the bottom of the front cover.
 
-![Pi assembly](../../static/img/assembly/fa4.png)
+![Pi assembly](/img/assembly/fa4.png)
 
 4. On the back of the assembly, use two `M3 nuts` to lock the screws in place.
 
