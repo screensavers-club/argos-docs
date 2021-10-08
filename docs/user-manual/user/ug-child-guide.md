@@ -1,9 +1,9 @@
 ---
-Title: 10. Software Guide Child Node
-sidebar_position: 10
+Title: 2. Child Node Software Manual
+sidebar_position: 2
 ---
 
-# 10. Software Guide: Child Node
+# 2. Child Node Software Manual
 
 :::tip Note
 To be revised.

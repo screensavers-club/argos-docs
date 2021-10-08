@@ -1,9 +1,13 @@
 ---
-Title: 10. Troubleshooting
-sidebar_position: 10
+Title: 4. Troubleshooting
+sidebar_position: 4
 ---
 
-# 10. Troubleshooting
+# 4. Troubleshooting
+
+### Software Updates
+
+The Argos Child and Parent browsers are automatically updated by the dev team. However, when there is an update to the Raspberry Pi Operating System, we will push out an update that requires you to download and install. As of now, there is no need to update anything as we have not developed that far yet.
 
 ### Issue 1: Lens is not focusing when adjusting focus knob
 
