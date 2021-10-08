@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## Current Version
 
-The current hardware version is **Version 3.3**, uploaded on 14 Sep 2021.
+The current hardware version is **Version 3.4**, uploaded on 1st October 2021.
 
 ## About
 

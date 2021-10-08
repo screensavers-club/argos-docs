@@ -1,9 +1,9 @@
 ---
-Title: 9. Setting Up The Assembled Unit
-sidebar_position: 9
+Title: 1. Setting Up The Assembled Unit
+sidebar_position: 1
 ---
 
-# 9. Setting Up The Assembled Unit
+# 1. Setting Up The Assembled Unit
 
 The items required for the case assembly is:
 
