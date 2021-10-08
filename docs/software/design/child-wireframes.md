@@ -5,8 +5,6 @@ sidebar_position: 1
 
 # Child Wireframes
 
-This section documents the UI and appearance of the Child software.
-
 <!-- ## UX Flowchart
 
 First, we use a UX flowchart to determine how the user interaction flows.
@@ -42,13 +40,3 @@ Choosing layout for video feed
 **Second Iteration**
 
 (insert images)
-
-## State Machine
-
-Here is our state machine
-
-![child state machine](/img/state-machine/child-statemachine.png)
-
-And the context we pass through the machine
-
-![child states](/img/state-machine/child-state.png)

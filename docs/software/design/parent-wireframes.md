@@ -5,8 +5,6 @@ sidebar_position: 1
 
 # Parent Wireframes
 
-This section documents the UI and appearance of the Parent software.
-
 ## UX Flowchart
 
 We made a flow chart first to determine the parent node interactions
@@ -66,21 +64,3 @@ Changing layouts
 ![parent layout](/img/wireframe/parent-changelayout.png)
 
 ![parent layout](/img/wireframe/parent-changelayout2.png)
-
-**Second Iteration**
-
-(insert images)
-
-As we work in React xState, we developed a state chart that aligns with the flowchart.
-
-## State Machine
-
-The parent state machine
-
-![parent state machine](/img/state-machine/parent-state-machine.png)
-
-## Prototyping
-
-- Show Prototyped UI
-
-## Final
