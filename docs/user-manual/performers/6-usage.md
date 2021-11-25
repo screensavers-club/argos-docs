@@ -25,7 +25,7 @@ To test your camera before joining, tap on **Test Cam**. You should see the imag
 
 If you have issues with getting an image to show up, here are some troubleshooting steps you might want to check out.
 
-- Getting a blurry image? check the [camera setup](/docs/user-manual/performers/camera-setup) steps to ensure you've set up your camera correctly
+- Getting a blurry image? check the [camera setup](/docs/user-manual/performers/troubleshooting/camera-setup) steps to ensure you've set up your camera correctly
 - [Camera fails to turn on after OS upgrade](/docs/user-manual/performers/troubleshooting/camera-doesnt-turn-on-after-os-upgrade)
 
 ---
