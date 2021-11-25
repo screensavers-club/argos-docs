@@ -1,17 +1,15 @@
 ---
-title: "Designing for States: Managing PeerJS and other state"
+title: Finite State Machines
 author: Siah
 author_title: Argos Contributor
 tags: [devlog]
 ---
 
-User experience starts with connecting to the Peer Server in order to even begin signalling. 
+The parent and child nodes for Argos are both single page React apps, considering that they are both essentially single-purpose user interfaces. The challenge appears when we consider the fact that there is a lot of state to manage, and much of it unknown, depending on multiple external factors (e.g. wifi condition, network state, no. of child nodes, latency) and sequence of user actions.
 
-Upon connected, there are multiple states that lead to multiple actions. 
+It is advantageous to handle this with a state machine implementation. [Redux](https://redux.js.org) and [XState](https://xstate.js.org) were considered, with XState chosen for its ability to declare/handle [Transitions](https://xstate.js.org/docs/guides/transitions.html) explicitly.
 
-- Child node needs to maintain a WebRTC connection to Parent node
-- Child node could possibly connect to multiple other child nodes
-- Send audio only when `getUserMedia` is working
+Consider the following example:
 
-How do we design to represent all this state in a comprehensible and succint UI to user? Good design would reduce ambiguity and make obvious what action needs to be taken to solve any outstanding issues preventing a successful video connection. 
-
+1. We want the parent node UI to start in a `START` state, with some valid interaction options shown when in this state: `JOIN ROOM`, `START NEW ROOM`
+2. Upon entering either available states,
