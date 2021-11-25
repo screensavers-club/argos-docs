@@ -9,7 +9,7 @@ The XIMI Child Node is built on the Raspberry Pi 4 single-board computer. In gen
 
 1. For **audio output**, there is an on-board 3.5mm audio jack that can be connected to normal earphones.
 1. **Bluetooth audio** works for **output only** due to the Raspberry Pi platform. Refer to [Bluetooth audio](#bluetooth-audio) below.
-1. For **audio input**, the best way to do so is to connect a **USB sound card**. Refer to [USB Sound card](#usb-sound card) below.
+1. For **audio input**, the best way to do so is to connect a **USB sound card**. Refer to [USB Sound card](#usb-sound-card) below.
 1. Alternatively, for **audio input**, connect USB audio accessories (e.g. headphones with headset, USB microphone). Most devices, provided they are class-compliant, should work without requiring any software or driver installation.
 
 ---

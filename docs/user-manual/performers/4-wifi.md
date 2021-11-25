@@ -15,6 +15,8 @@ If performing over Wi-Fi, try to be as close to your wireless router as possible
 
 If the Wi-Fi icon has a red cross over it, click on it and select **Turn on Wi-Fi**.
 
-![](/img/new-user-manual/child-raspi/1-wifi.png)
+![Enable Wi-Fi](/img/new-user-manual/child-raspi/1-wifi.png)
 
-![](/img/new-user-manual/child-raspi/2-wifi.png)
+You will then be able to see Wi-Fi networks available, and connect normally.
+
+![Wi-Fi networks](/img/new-user-manual/child-raspi/2-wifi.png)
