@@ -22,11 +22,11 @@ Take note to remove the **grooved ring** that is attached between the lens cap a
 
 Uncap your lens cap and mount the camera lens onto the camera module.
 
-![](/img/new-user-manual/child/21-camera.jpg)
+![uncap](/img/new-user-manual/child/21-camera.jpg)
 
-![](/img/new-user-manual/child/22-camera.jpg)
+![uncap](/img/new-user-manual/child/22-camera.jpg)
 
-![](/img/new-user-manual/child/23-camera.jpg)
+![uncap](/img/new-user-manual/child/23-camera.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Adjust the aperture to get the desired exposure. Lock the dial in place by tight
 
 To adjust the camera's focus, turn the knob **clockwise** to focus on further objects, and **anti-clockwise** to focus on nearer objects.
 
-![](/img/new-user-manual/child/26-camera.jpg)
+![focusing](/img/new-user-manual/child/26-camera.jpg)
 
 You can use the **Test Camera** function in the XIMI application to test the camera's focus.
 
@@ -52,4 +52,4 @@ You can use the **Test Camera** function in the XIMI application to test the cam
 
 You may tighten the knob found on the focusing dial to lock the focus.
 
-![](/img/new-user-manual/child/27-camera.jpg)
+![lock](/img/new-user-manual/child/27-camera.jpg)
