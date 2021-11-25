@@ -1,33 +1,92 @@
 ---
-Title: 6. How to use XIMI
+Title: Using XIMI Child Node Software
 sidebar_position: 6
 ---
 
-# 6. How to use XIMI
+# Using the XIMI Child Node Software
 
-![](/img/new-user-manual/child-raspi/10-fullscreen.png)
+## Going fullscreen
 
-![](/img/new-user-manual/child-raspi/11-refresh.png)
+Upon launching the XIMI software, you will see a screen like this. To maximize your screen real estate, tap on the **Fullscreen** button.
 
-![](/img/new-user-manual/child-raspi/12-rooms.png)
+![Launch](/img/new-user-manual/child-raspi/10-fullscreen.png)
 
-![](/img/new-user-manual/child-raspi/13-testcam.png)
+![Fullscreen](/img/new-user-manual/child-raspi/11-refresh.png)
 
-![](/img/new-user-manual/child-raspi/14-testcam.png)
+---
 
-![](/img/new-user-manual/child-raspi/15-testaudio.png)
+## Testing your camera
 
-![](/img/new-user-manual/child-raspi/16-testaudio.png)
+To test your camera before joining, tap on **Test Cam**. You should see the image your camera is currently capturing.
+
+![Test cam](/img/new-user-manual/child-raspi/13-testcam.png)
+
+![Test cam](/img/new-user-manual/child-raspi/14-testcam.png)
+
+If you have issues with getting an image to show up, here are some troubleshooting steps you might want to check out.
+
+- Getting a blurry image? check the [camera setup](/docs/user-manual/performers/camera-setup) steps to ensure you've set up your camera correctly
+- [Camera fails to turn on after OS upgrade](/docs/user-manual/performers/troubleshooting/camera-doesnt-turn-on-after-os-upgrade)
+
+---
+
+## Joining a room
+
+Tap on the **refresh** icon to see what rooms are available. In this example, there is a room called `jackfruit-olive`. Tap on the room name to join that room. You will need the passcode set by your stage manager.
+
+![Joining a room](/img/new-user-manual/child-raspi/12-rooms.png)
+
+<!-- ![](/img/new-user-manual/child-raspi/15-testaudio.png)
+
+![](/img/new-user-manual/child-raspi/16-testaudio.png) -->
+
+Enter the passcode when prompted:
 
 ![](/img/new-user-manual/child-raspi/17-password.png)
 
+If your passcode was correct, you will be prompted to enter your nickname. This is limited to 5 characters maximum.
+
+:::note
+
+It is important to stick to the same nickname throughout the show, for example if you have to leave the room and re-join. This is so that whatever controls the stage manager applies from their end will stay applied to your unit.
+
+:::
+
 ![](/img/new-user-manual/child-raspi/18-name.png)
 
-![](/img/new-user-manual/child-raspi/19-joined.png)
+:::warning
+
+Do not choose the same nickname as another performer as this will cause stage manager controls to stop working.
+
+:::
+
+---
+
+# Performing
+
+Once you're in the room, turn on your mic and camera with the buttons here.
+
+![Onboard buttons](/img/new-user-manual/child-raspi/19-joined.png)
+
+When your mic and camera are turned on, the indicators will be shown like this:
 
 ![](/img/new-user-manual/child-raspi/20-joined.png)
 
-![](/img/new-user-manual/child-raspi/21-joined.png)
+You can hide the buttons if you don't need them:
+
+![Sidebar retracted](/img/new-user-manual/child-raspi/21-joined.png)
+
+---
+
+## During performance
+
+The stage manager will control what you see on your video. You will also be able to see who you can hear (also controlled by the stage manager), so you only hear information relevant to you at any point in the performance.
+
+---
+
+## Exiting the room
+
+To exit the room, tap on the bottom most icon and tap **Exit** to confirm.
 
 ![](/img/new-user-manual/child-raspi/22-joined.png)
 

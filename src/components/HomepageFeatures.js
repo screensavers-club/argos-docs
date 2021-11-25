@@ -4,41 +4,54 @@ import styles from "./HomepageFeatures.module.css";
 
 const FeatureList = [
   {
-    title: "All Open Source",
+    title: "For Performers",
     Svg: require("../../static/img/docusaurus/undraw_docusaurus_mountain.svg")
       .default,
     description: (
-      <>Built on open source technologies, Argos itself is 100% open source.</>
+      <>
+        Learn how to use XIMI to see and hear your fellow performers in close to
+        realtime.
+      </>
     ),
+    link: "/docs/user-manual/performers/overview",
+    linkTitle: "Explore",
   },
   {
-    title: "Integrated Software & Hardware",
+    title: "For Stage Managers",
     Svg: require("../../static/img/docusaurus/undraw_docusaurus_tree.svg")
-      .default,
-    description: <>Full integrated approach allows a smoother experience.</>,
-  },
-  {
-    title: "Powered by React",
-    Svg: require("../../static/img/docusaurus/undraw_docusaurus_react.svg")
       .default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Effortlessly control who performers can see and hear at any point in the
+        show.
       </>
     ),
+    link: "/#",
+    linkTitle: "Explore",
   },
+  // {
+  //   title: "Powered by React",
+  //   Svg: require("../../static/img/docusaurus/undraw_docusaurus_react.svg")
+  //     .default,
+  //   description: (
+  //     <>
+  //       Extend or customize your website layout by reusing React. Docusaurus can
+  //       be extended while reusing the same header and footer.
+  //     </>
+  //   ),
+  // },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ Svg, title, description, link, linkTitle }) {
   return (
-    <div className={clsx("col col--4")}>
+    <div className={clsx("col col--6")}>
       <div className="text--center">
         <Svg className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+        <a href={link}>{linkTitle}</a>
       </div>
     </div>
   );

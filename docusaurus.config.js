@@ -15,7 +15,7 @@ module.exports = {
       items: [
         {
           type: "doc",
-          docId: "user-manual/performers/switching-on",
+          docId: "user-manual/performers/overview",
           position: "left",
           label: "For Performers",
         },
