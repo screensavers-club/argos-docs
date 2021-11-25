@@ -1,9 +1,8 @@
 ---
-Title: 7. Camera Setup
-sidebar_position: 7
+Title: Setting up the camera correctly / troubleshooting blurry camera
 ---
 
-# 7. Camera Setup
+# Setting up the camera correctly / troubleshooting blurry camera
 
 ![](/img/new-user-manual/child/18-camera.jpg)
 
