@@ -20,4 +20,10 @@ sudo apt install bluetooth pi-bluetooth bluez blueman
 
 Then press `Enter`. Press `y` followed by `Enter` to confirm that you want to install the above.
 
-Upon completion of installation, you should see the Bluetooth icon appear on the top-right corner of your screen.
+Upon completion of installation, you will need to restart the unit. In the Terminal application, type:
+
+```bash
+sudo reboot now
+```
+
+You should now see the Bluetooth icon appear on the top-right corner of your screen.
