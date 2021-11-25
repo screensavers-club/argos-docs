@@ -54,3 +54,9 @@ After your hardware is connected, **right-click** on the speaker icon on the top
 ---
 
 ## Bluetooth Audio
+
+To get your Bluetooth earphones/headphones to work with the XIMI Child Node, first [install the Bluetooth software](/docs/user-manual/performers/troubleshooting/installing-bluetooth) if you don't see this Bluetooth icon on the top-right corner of your screen.
+
+![Bluetooth icon](/img/new-user-manual/child-raspi/bluetooth-icon.png)
+
+You can then use the Bluetooth icon to pair to your Bluetooth devices.
