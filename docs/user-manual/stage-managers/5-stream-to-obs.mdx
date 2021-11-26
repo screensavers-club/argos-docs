@@ -14,3 +14,41 @@ import {
 # Streaming to OBS
 
 After your performers are all set up, you are now ready to feed their audio and video into OBS Studio for the actual livestream.
+
+## Getting stream link
+
+First, get the **stream link** of the Child Node you would like to add to OBS Studio.
+
+![Obtain stream link](/img/new-user-manual/parent/stream-link.png)
+
+Regardless of whether the Child Node is broadcasting audio and/or video, you are able to choose whether the Child Node stream will include audio.
+
+## Adding stream to OBS
+
+Launch OBS. Under **Sources** panel, click the + icon and select **Browser Source**.
+
+![Add browser source](/img/obs-streaming/add-source.png)
+
+---
+
+Name your source accordingly to organise your scene better. We recommend naming it the nickname of the Child Node you're adding.
+
+![Name browser source](/img/obs-streaming/name-source.png)
+
+---
+
+- Paste in the **stream link** you copied from the **Stream Control** page on the Parent Node.
+- Set the `width` and `height` as desired. The video source will find a best fit to fill up the frame.
+- For better efficiency on OBS end, set the `FPS` value to 30.
+
+![Source options](/img/obs-streaming/source-options.png)
+
+---
+
+You will now see your source added to the OBS scene.
+
+![Source added](/img/obs-streaming/source-added.png)
+
+## Starting audio of stream in OBS
+
+## Better audio control on OBS
