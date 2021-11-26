@@ -1,13 +1,9 @@
 ---
 Title: 1. How to use XIMI for stage
-sidebar_position: 1
+sidebar_position: 100
 ---
 
 # 1. How to use XIMI for stage
-
-![](/img/new-user-manual/parent/1-rooms.png)
-
-![](/img/new-user-manual/parent/2-createroom.png)
 
 ![](/img/new-user-manual/parent/3-reloadroom.png)
 

@@ -21,7 +21,7 @@ module.exports = {
         },
         {
           type: "doc",
-          docId: "user-manual/stage-managers/ximi-stage",
+          docId: "user-manual/stage-managers/overview",
           position: "left",
           label: "For Stage Managers",
         },

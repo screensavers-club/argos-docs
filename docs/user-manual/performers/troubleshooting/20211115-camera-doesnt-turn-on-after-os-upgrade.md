@@ -4,6 +4,12 @@ title: Camera fails to turn on after OS upgrade
 
 # Camera fails to turn on after OS upgrade
 
+:::warning
+
+We are verifying this fix with more units before this is considered an official solution
+
+:::
+
 managed to get it working again by downgrading chromium, Try:
 
 ```
