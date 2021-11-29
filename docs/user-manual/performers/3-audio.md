@@ -47,7 +47,7 @@ You will need a mouse connected to the XIMI Child Node for this operation.
 
 After your hardware is connected, **right-click** on the speaker icon on the top right of the screen. You will be able to select connected devices for **Audio Output** and **Audio Input** separately.
 
-![Audio Output](/img/new-user-manual/child-raspi/29-audiodetection.png)
+![Audio Output](/img/new-user-manual/child-raspi/4-audio.png)
 
 ![Audio Input](/img/new-user-manual/child-raspi/30-audiodetection.png)
 
