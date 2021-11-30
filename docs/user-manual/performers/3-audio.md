@@ -60,3 +60,51 @@ To get your Bluetooth earphones/headphones to work with the XIMI Child Node, fir
 ![Bluetooth icon](/img/new-user-manual/child-raspi/bluetooth-icon.png)
 
 You can then use the Bluetooth icon to pair to your Bluetooth devices.
+
+---
+
+## Switching on Bluetooth
+
+When Bluetooth is switched off, you should see a red icon on the Bluetooth icon. Click on the Bluetooth icon and click **"Turn Bluetooth On"** to switch Bluetooth on.
+
+![Bluetooth icon](/img/new-user-manual/child-raspi/bt-1.png)
+
+![Bluetooth turn on](/img/new-user-manual/child-raspi/bt-2.png)
+
+---
+
+## Connecting to Bluetooth Device
+
+Click onto the Bluetooth icon again and click **"Devices"** to view available devices.
+
+![Bluetooth devices](/img/new-user-manual/child-raspi/bt-5.png)
+
+A pop up will appear and you will see devices that was paired before. To discover new devices, click onto the **"Search"** button
+
+![Discovering devices](/img/new-user-manual/child-raspi/bt-6.png)
+
+![Discovering devices](/img/new-user-manual/child-raspi/bt-7.png)
+
+Right click the device that you wish to connect to and click **"Pair"**
+
+:::tip Note
+
+Remember to make your Bluetooth discoverable so the XIMI unit is able to detect it.
+
+:::
+
+![Pairing devices](/img/new-user-manual/child-raspi/bt-8.png)
+
+![Pairing devices](/img/new-user-manual/child-raspi/bt-9.png)
+
+![Pairing devices](/img/new-user-manual/child-raspi/bt-10.png)
+
+![Pairing devices](/img/new-user-manual/child-raspi/bt-11.png)
+
+---
+
+## Disconnecting Bluetooth Devices
+
+If you intend to disconnect a device, right click the device you wish to disconnect and click **"Disconnect"**
+
+![Disconnecting devices](/img/new-user-manual/child-raspi/bt-12.png)
