@@ -82,6 +82,14 @@ You can hide the buttons if you don't need them:
 
 The stage manager will control what you see on your video. You will also be able to see who you can hear (also controlled by the stage manager), so you only hear information relevant to you at any point in the performance.
 
+![Performance (cam off)](/img/new-user-manual/child-raspi/live-1.png)
+
+![Performance](/img/new-user-manual/child-raspi/live-2.png)
+
+![Performance (retracted)](/img/new-user-manual/child-raspi/live-3.png)
+
+![Performance (different view)](/img/new-user-manual/child-raspi/live-4.png)
+
 ---
 
 ## Exiting the room
