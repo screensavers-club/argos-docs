@@ -20,3 +20,11 @@ If the Wi-Fi icon has a red cross over it, click on it and select **Turn on Wi-F
 You will then be able to see Wi-Fi networks available, and connect normally.
 
 ![Wi-Fi networks](/img/new-user-manual/child-raspi/2-wifi.png)
+
+A pop-up will appear prompting you to enter your Wi-Fi password.
+
+![Wi-Fi networks](/img/new-user-manual/child-raspi/wifi-2.png)
+
+The Wi-Fi icon will appear blue when connection is made successfully.
+
+![Wi-Fi networks](/img/new-user-manual/child-raspi/wifi-4.png)
