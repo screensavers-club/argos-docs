@@ -85,7 +85,7 @@ A pop up will appear and you will see devices that was paired before. To discove
 
 ![Discovering devices](/img/new-user-manual/child-raspi/bt-7.png)
 
-Right click the device that you wish to connect to and click **"Pair"**
+If you have a mouse, right click the device that you wish to connect to and click **"Pair"**
 
 :::tip Note
 
@@ -101,6 +101,22 @@ Remember to make your Bluetooth discoverable so the XIMI unit is able to detect 
 
 ![Pairing devices](/img/new-user-manual/child-raspi/bt-11.png)
 
+If you do not have a mouse, click onto the **"Setup..."** button
+
+![Pairing devices](/img/new-user-manual/child-raspi/pairing0.png)
+
+A pop up will show up asking you to pair the device. Select **"Pair Device"** and press **"Next"**.
+
+![Pairing devices](/img/new-user-manual/child-raspi/pairing1.png)
+
+On the next section, select **"Audio Sink"** and press **"Next"**
+
+![Pairing devices](/img/new-user-manual/child-raspi/pairing2.png)
+
+The pairing is now complete. You may exit the window.
+
+![Pairing devices](/img/new-user-manual/child-raspi/pairing3.png)
+
 ---
 
 ## Disconnecting Bluetooth Devices
@@ -108,3 +124,13 @@ Remember to make your Bluetooth discoverable so the XIMI unit is able to detect 
 If you intend to disconnect a device, right click the device you wish to disconnect and click **"Disconnect"**
 
 ![Disconnecting devices](/img/new-user-manual/child-raspi/bt-12.png)
+
+Alternatively, you can select the device you wish to disconnect and press the **"-"** icon to disconnect your device.
+
+![Disconnecting devices](/img/new-user-manual/child-raspi/disconnect-bluetooth.png)
+
+---
+
+## Re-discover Bluetooth Device
+
+If you wish to re-connect to a device that you removed, simply press the **"Search"** button again to look for the device. If this does not work, try restarting your Bluetooth device and try again.
