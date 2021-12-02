@@ -5,31 +5,6 @@ sidebar_position: 6
 
 # Using the XIMI Child Node Software
 
-## Going fullscreen
-
-Upon launching the XIMI software, you will see a screen like this. To maximize your screen real estate, tap on the **Fullscreen** button.
-
-![Launch](/img/new-user-manual/child-raspi/10-fullscreen.png)
-
-![Fullscreen](/img/new-user-manual/child-raspi/11-refresh.png)
-
----
-
-## Testing your camera
-
-To test your camera before joining, tap on **Test Cam**. You should see the image your camera is currently capturing.
-
-![Test cam](/img/new-user-manual/child-raspi/13-testcam.png)
-
-![Test cam](/img/new-user-manual/child-raspi/14-testcam.png)
-
-If you have issues with getting an image to show up, here are some troubleshooting steps you might want to check out.
-
-- Getting a blurry image? check the [camera setup](/docs/user-manual/performers/troubleshooting/camera-setup) steps to ensure you've set up your camera correctly
-- [Camera fails to turn on after OS upgrade](/docs/user-manual/performers/troubleshooting/camera-doesnt-turn-on-after-os-upgrade)
-
----
-
 ## Joining a room
 
 Tap on the **refresh** icon to see what rooms are available. In this example, there is a room called `jackfruit-olive`. Tap on the room name to join that room. You will need the passcode set by your stage manager.
