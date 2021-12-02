@@ -27,3 +27,13 @@ Alternatively, launch the **Web Browser** with this icon, and navigate to `https
 You will see an interface similar to the one here:
 
 ![Launched](/img/new-user-manual/child-raspi/9-childmain.png)
+
+---
+
+## Going fullscreen
+
+Upon launching the XIMI software, you will see a screen like this. To maximize your screen real estate, tap on the **Fullscreen** button.
+
+![Launch](/img/new-user-manual/child-raspi/10-fullscreen.png)
+
+![Fullscreen](/img/new-user-manual/child-raspi/11-refresh.png)
