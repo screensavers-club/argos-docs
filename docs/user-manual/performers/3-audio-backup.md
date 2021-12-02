@@ -1,32 +1,34 @@
----
+<!-- ---
 Title: Audio Hardware & Control
 sidebar_position: 3
 ---
 
 # Audio Hardware & Control
 
-The XIMI Child Node is built on the Raspberry Pi 4 single-board computer. Below are 3 ways you can connect your audio device.
+The XIMI Child Node is built on the Raspberry Pi 4 single-board computer. In general, here are the kinds of audio hardware supported:
 
-1. You may connect a **USB audio adaptor** to connected a **wired audio device**. Refer to [USB Audio Adaptor](#usb-sound-card) below.
-2. You may also connect **wired USB audio accessories** (e.g. headphones with headset, USB microphone) onto the **USB ports**. Most devices, provided they are class-compliant, should work without requiring any software or driver installation.
-3. **Bluetooth audio devices** can also be connected, but it can only be used as a **listening device** due to Raspberry Pi's limitations. Refer to [Bluetooth audio](#bluetooth-audio) below.
-
-We recommend going with option 1 or 2 for a reliable setup.
+1. For **audio output**, there is an on-board 3.5mm audio jack that can be connected to normal earphones.
+1. **Bluetooth audio** works for **output only** due to the Raspberry Pi platform. Refer to [Bluetooth audio](#bluetooth-audio) below.
+1. For **audio input**, the best way to do so is to connect a **USB sound card**. Refer to [USB Sound card](#usb-sound-card) below.
+1. Alternatively, for **audio input**, connect USB audio accessories (e.g. headphones with headset, USB microphone). Most devices, provided they are class-compliant, should work without requiring any software or driver installation.
 
 ---
 
-## USB Audio Adaptor
+## USB sound card
 
-The most straightforward solution to get audio input working is to plug in a **USB Audio Adaptor** (also known as USB Sound Card). Note that **there are different types of audio jacks which may or may not be compatible to certain types of USB Audio Adaptors** (See **Audio Jack Differences** section below). Here are some examples of such USB audio adaptors:
+The most straightforward solution to get audio input working is to plug in a USB sound card that outputs to the audio jack of your choice, e.g. 1/8" TRS, 1/4" TRS. Here are some examples of such USB sound cards:
 
 1. [Creative Sound Blaster Play 3](https://my.creative.com/p/sound-cards/sound-blaster-play-3#buy-menu)
 1. [UGREEN USB Sound Card](https://www.amazon.com/UGREEN-External-Headphone-Microphone-Desktops/dp/B016CU2PEU/ref=sr_1_2_sspa?keywords=ugreen%2Bsound%2Bcard&qid=1637833947&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1MTc1Sk83WURZTjImZW5jcnlwdGVkSWQ9QTA4MTg4NTkzT0JGQ0s5RzdJTzlPJmVuY3J5cHRlZEFkSWQ9QTA4NDUyMTk4TFY1VDJJQkwxMlAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
 
-### Audio Jack Differences (Distinction between TRS and TRRS)
+![USB Sound card](/img/new-user-manual/child/15-audio.jpg)
+![Combo sound card](/img/new-user-manual/child/16-audio.jpg)
+
+### Distinction between TRS and TRRS
 
 ![TRS vs TRRS](/img/new-user-manual/trs-trrs.jpg)
 
-It is important to note that for different 3.5mm audio cables, there are different specifications. Observe whether the jack has 3 rings (TRRS) or 2 rings (TRS). Please note to use the correct USB Audio Adaptor for the type of audio jack you own.
+It is important to note that for different 3.5mm audio cables, there are different specifications. Observe whether the jack has 3 rings (TRRS) or (TRS).
 
 |                       | TRS                                                                                                                                   | TRRS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,21 +39,7 @@ It is important to note that for different 3.5mm audio cables, there are differe
 
 ---
 
-### Connecting the USB Adaptor
-
-First, plug in your audio device on one end of the USB audio adaptor.
-
-![USB Sound card](/img/new-user-manual/child/15-audio.jpg)
-
-![Combo sound card](/img/new-user-manual/child/16-audio.jpg)
-
-Next, plug the USB end of the adaptor onto any USB port on the XIMI unit.
-
-![USB Input](/img/new-user-manual/child/11-accessories.jpg)
-
----
-
-## Setting Active Audio Device
+## Setting active audio device
 
 You can use multiple audio devices simultaneously. E.g. a USB microphone for **input**, together with a pair of earphones connected to the on-board 3.5mm jack for **output**.
 
@@ -145,4 +133,4 @@ Alternatively, you can select the device you wish to disconnect and press the **
 
 ## Re-discover Bluetooth Device
 
-If you wish to re-connect to a device that you removed, simply press the **"Search"** button again to look for the device. If this does not work, try restarting your Bluetooth device and try again.
+If you wish to re-connect to a device that you removed, simply press the **"Search"** button again to look for the device. If this does not work, try restarting your Bluetooth device and try again. -->
