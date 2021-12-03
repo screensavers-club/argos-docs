@@ -44,15 +44,7 @@ Next, plug the USB end of the Adapter onto any USB port on the XIMI unit.
 
 ## Setting Active Audio Device
 
-You can use multiple audio devices simultaneously. E.g. a USB microphone for **input**, together with a pair of earphones connected to the on-board 3.5mm jack for **output**.
-
-You will need a mouse connected to the XIMI Child Node for this operation.
-
-After your hardware is connected, **right-click** on the speaker icon on the top right of the screen. You will be able to select connected devices for **Audio Output** and **Audio Input** separately.
-
-![Audio Output](/img/new-user-manual/child-raspi/4-audio.png)
-
-![Audio Input](/img/new-user-manual/child-raspi/30-audiodetection.png)
+If you have multiple audio devices connected and need to configure it, please visit [Audio Configuration](/docs/user-manual/performers/troubleshooting/audio-config) to configure your device.
 
 ---
 
