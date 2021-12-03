@@ -7,45 +7,36 @@ sidebar_position: 3
 
 The XIMI Child Node is built on the Raspberry Pi 4 single-board computer. Below are 3 ways you can connect your audio device.
 
-1. You may connect a **USB audio adaptor** to connected a **wired audio device**. Refer to [USB Audio Adaptor](#usb-sound-card) below.
-2. You may also connect **wired USB audio accessories** (e.g. headphones with headset, USB microphone) onto the **USB ports**. Most devices, provided they are class-compliant, should work without requiring any software or driver installation.
+1. You may connect a **USB Audio Adapter** to connect a **wired audio device**. Refer to [USB Audio Adapter](#usb-sound-card) below.
+2. You may also connect a **wired USB audio accessories** (e.g. headphones with headset, USB microphone) onto the **USB ports**. Most devices, provided they are class-compliant, should work without requiring any software or driver installation.
 3. **Bluetooth audio devices** can also be connected, but it can only be used as a **listening device** due to Raspberry Pi's limitations. Refer to [Bluetooth audio](#bluetooth-audio) below.
 
 We recommend going with option 1 or 2 for a reliable setup.
 
 ---
 
-## USB Audio Adaptor
+## USB Audio Adapter
 
-The most straightforward solution to get audio input working is to plug in a **USB Audio Adaptor** (also known as USB Sound Card). Note that **there are different types of audio jacks which may or may not be compatible to certain types of USB Audio Adaptors** (See **Audio Jack Differences** section below). Here are some examples of such USB audio adaptors:
+The most straightforward solution to get audio input working is to plug in a **USB Audio Adapter** (also known as USB Sound Card). Note that **there are different types of audio jacks which may or may not be compatible to certain types of USB Audio Adapters**
+
+See [Audio Jack Differences](/docs/user-manual/performers/troubleshooting/trs-trrs-differences) if you have problems setting up.
+
+Here are some examples of such USB audio adapters:
 
 1. [Creative Sound Blaster Play 3](https://my.creative.com/p/sound-cards/sound-blaster-play-3#buy-menu)
 1. [UGREEN USB Sound Card](https://www.amazon.com/UGREEN-External-Headphone-Microphone-Desktops/dp/B016CU2PEU/ref=sr_1_2_sspa?keywords=ugreen%2Bsound%2Bcard&qid=1637833947&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1MTc1Sk83WURZTjImZW5jcnlwdGVkSWQ9QTA4MTg4NTkzT0JGQ0s5RzdJTzlPJmVuY3J5cHRlZEFkSWQ9QTA4NDUyMTk4TFY1VDJJQkwxMlAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
 
-### Audio Jack Differences (Distinction between TRS and TRRS)
-
-![TRS vs TRRS](/img/new-user-manual/trs-trrs.jpg)
-
-It is important to note that for different 3.5mm audio cables, there are different specifications. Observe whether the jack has 3 rings (TRRS) or 2 rings (TRS). Please note to use the correct USB Audio Adaptor for the type of audio jack you own.
-
-|                       | TRS                                                                                                                                   | TRRS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| form                  | 2 black bands (1 ring)                                                                                                                | 3 black bands (2 rings)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| function              | stereo out only/ stereo in only                                                                                                       | stereo out + mono mic in                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| typical device        | dedicated earphones, dedicated microphone                                                                                             | earphones or headset with microphone function                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| USB sound card needed | Split into dedicated audio in/out channels. [Example sound card](https://my.creative.com/p/sound-cards/sound-blaster-play-3#buy-menu) | One jack with "combo"/"2-in-1" function, [example sound card](https://www.amazon.com/UGREEN-External-Adapter-Aluminum-Desktops/dp/B087T5H3MQ/ref=sr_1_1_sspa?crid=3HNTPAZCHCFQ7&keywords=ugreen+sound+card+usb&qid=1637834043&sprefix=ugreen+sound+card%2Caps%2C423&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNVlWQjNYSVhNR0wxJmVuY3J5cHRlZElkPUExMDM3Njc2MVFHMlRCSVZOS0ZFUSZlbmNyeXB0ZWRBZElkPUEwMTcyNjY1MUFXUTNVTkdKSTVBSiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
-
 ---
 
-### Connecting the USB Adaptor
+### Connecting the USB Adapter
 
-First, plug in your audio device on one end of the USB audio adaptor.
+First, plug in your audio device on one end of the USB Audio Adapter.
 
 ![USB Sound card](/img/new-user-manual/child/15-audio.jpg)
 
 ![Combo sound card](/img/new-user-manual/child/16-audio.jpg)
 
-Next, plug the USB end of the adaptor onto any USB port on the XIMI unit.
+Next, plug the USB end of the Adapter onto any USB port on the XIMI unit.
 
 ![USB Input](/img/new-user-manual/child/11-accessories.jpg)
 
@@ -75,7 +66,7 @@ You can then use the Bluetooth icon to pair to your Bluetooth devices.
 
 ---
 
-## Switching on Bluetooth
+### Switching on Bluetooth
 
 When Bluetooth is switched off, you should see a red icon on the Bluetooth icon. Click on the Bluetooth icon and click **"Turn Bluetooth On"** to switch Bluetooth on.
 
@@ -85,7 +76,7 @@ When Bluetooth is switched off, you should see a red icon on the Bluetooth icon.
 
 ---
 
-## Connecting to Bluetooth Device
+### Connecting to Bluetooth Device
 
 Click onto the Bluetooth icon again and click **"Devices"** to view available devices.
 
@@ -131,7 +122,7 @@ The pairing is now complete. You may exit the window.
 
 ---
 
-## Disconnecting Bluetooth Devices
+### Disconnecting Bluetooth Devices
 
 If you intend to disconnect a device, right click the device you wish to disconnect and click **"Disconnect"**
 
@@ -143,6 +134,6 @@ Alternatively, you can select the device you wish to disconnect and press the **
 
 ---
 
-## Re-discover Bluetooth Device
+### Re-discover Bluetooth Device
 
 If you wish to re-connect to a device that you removed, simply press the **"Search"** button again to look for the device. If this does not work, try restarting your Bluetooth device and try again.
