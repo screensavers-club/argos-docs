@@ -1,14 +1,18 @@
 ---
-title: Configuring Audio With PulseAudio Volume Control
+title: Audio Configuration
 ---
 
-# Configuring Audio With PulseAudio Volume Control
+# Audio Configuration
 
-The PulseAudio Volume Control is very useful in managing your audio devices when you have multiple audio devices plugged in.
+You can use multiple audio devices simultaneously. E.g. a USB microphone for **input**, together with a pair of earphones connected to the on-board 3.5mm jack for **output**.
+
+There are two methods of configuring your audio.
 
 ---
 
-## Setting up
+## Option 1: Using PulseAudio Volume Control
+
+### Setting up
 
 First, enter a room in XIMI and turn on your audio. If there is no room to connect to, you can visit any video streaming sites like Youtube and play a video with sound.
 
@@ -53,3 +57,17 @@ You may adjust the input volume if you wish.
 ---
 
 Once you have configured the devices, you may close the window.
+
+---
+
+## Option 2: Using System Audio Config
+
+You will need a mouse connected to the XIMI Child Node for this operation.
+
+After your hardware is connected, **right-click** on the speaker icon on the top right of the screen. You will be able to select connected devices for **Audio Output** and **Audio Input** separately.
+
+![Audio Output](/img/new-user-manual/child-raspi/4-audio.png)
+
+![Audio Input](/img/new-user-manual/child-raspi/30-audiodetection.png)
+
+---
