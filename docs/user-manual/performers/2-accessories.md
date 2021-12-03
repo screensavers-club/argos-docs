@@ -15,9 +15,9 @@ There is also an Ethernet jack that enables the Child Node to connect to the int
 
 ![Ethernet jack](/img/new-user-manual/child/13-accessories.jpg)
 
-For ethernet, please insert the other end onto an ethernet port.
+For ethernet, please insert the other end onto an ethernet port on your router.
 
-![Ethernet connection](/img/new-user-manual/child/ethernet.jpg)
+![Ethernet connection](/img/new-user-manual/child/ethernet2.jpg)
 
 ---
 

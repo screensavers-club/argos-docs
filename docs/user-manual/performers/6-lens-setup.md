@@ -1,8 +1,26 @@
 ---
-Title: Lens Adjustment Exposure and Focus
+Title: Camera and Lens Configuration
 ---
 
-# Lens Adjustment: Exposure and Focus
+# Camera and Lens Configuration
+
+---
+
+## Testing your camera
+
+First, remove the lens cap from the XIMI camera module.
+
+To test your camera, tap on the **Test Cam** button. You should see the image your camera is currently capturing.
+
+![Test cam](/img/new-user-manual/child-raspi/13-testcam.png)
+
+![Test cam](/img/new-user-manual/child-raspi/14-testcam.png)
+
+---
+
+## Lens Adjustment: Exposure and Focus
+
+If you see a blank image, ensure that the lens cap is taken off. If the image is still blank, consider this troubleshooting solution: [Camera fails to turn on after OS upgrade](/docs/user-manual/performers/troubleshooting/camera-doesnt-turn-on-after-os-upgrade).
 
 The camera lens should come with two dials: one for **focusing**, and one for controlling the **exposure**. Due to the complexity of how the lens work, it is recommended to follow through the next set of instructions step-by-step to avoid confusion.
 
@@ -12,7 +30,9 @@ Here are some reference images for the instructions below.
 
 ![knobs](/img/new-user-manual/child/cam4-knob-annotated.jpg)
 
-## Exposure
+---
+
+### Exposure
 
 Locate the dial that is responsible for **exposure** **(see the pink arrow in the reference image)**.
 
@@ -22,7 +42,9 @@ Adjust the exposure to get the desired brightness you require for your performan
 If you find it hard to adjust the dial, try loosening the extended knob and try again.
 :::
 
-## Focus
+---
+
+### Focus
 
 Ensure that the exposure knob is tightened before you begin focusing. This is to ensure that you do not accidentally adjust the exposure.
 

@@ -7,9 +7,13 @@ sidebar_position: 6
 
 ## Joining a room
 
-Tap on the **refresh** icon to see what rooms are available. In this example, there is a room called `jackfruit-olive`. Tap on the room name to join that room. You will need the passcode set by your stage manager.
+Tap on the **refresh** icon to see what rooms are available.
 
 ![Joining a room](/img/new-user-manual/child-raspi/12-rooms.png)
+
+In this example, there is a room called `jackfruit-olive`. Tap on the room name to join that room. You will need the passcode set by your stage manager.
+
+![Joining a room](/img/new-user-manual/child-raspi/12-rooms-join.png)
 
 <!-- ![](/img/new-user-manual/child-raspi/15-testaudio.png)
 
@@ -55,15 +59,17 @@ You can hide the buttons if you don't need them:
 
 ## During performance
 
-The stage manager will control what you see on your video. You will also be able to see who you can hear (also controlled by the stage manager), so you only hear information relevant to you at any point in the performance.
+The stage manager will control what you see on your video. The names of each performer can be seen beside each camera video.
 
-![Performance (cam off)](/img/new-user-manual/child-raspi/live-1.png)
+At the bottom left of your screen, you should see a speaker icon followed by a few performers' names. This represents the performers you can hear at the moment (also controlled by the stage manager), so you only hear information relevant to you at any point in the performance.
+
+<!--![Performance (cam off)](/img/new-user-manual/child-raspi/live-1.png)-->
 
 ![Performance](/img/new-user-manual/child-raspi/live-2.png)
 
-![Performance (retracted)](/img/new-user-manual/child-raspi/live-3.png)
+<!-- ![Performance (retracted)](/img/new-user-manual/child-raspi/live-3.png) -->
 
-![Performance (different view)](/img/new-user-manual/child-raspi/live-4.png)
+<!-- ![Performance (different view)](/img/new-user-manual/child-raspi/live-4.png) -->
 
 ---
 
