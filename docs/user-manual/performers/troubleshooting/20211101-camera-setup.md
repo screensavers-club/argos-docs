@@ -27,15 +27,3 @@ Uncap your lens cap and mount the camera lens onto the camera module. Be sure to
 ![uncap](/img/new-user-manual/child/22-camera.jpg)
 
 ![uncap](/img/new-user-manual/child/23-camera.jpg)
-
-## Testing your camera
-
-To test your camera, tap on the **Test Cam** button. You should see the image your camera is currently capturing.
-
-![Test cam](/img/new-user-manual/child-raspi/13-testcam.png)
-
-![Test cam](/img/new-user-manual/child-raspi/14-testcam.png)
-
-If you see a blank image, ensure that the lens cap is taken off. If the image is still blank, consider this troubleshooting solution: [Camera fails to turn on after OS upgrade](/docs/user-manual/performers/troubleshooting/camera-doesnt-turn-on-after-os-upgrade).
-
-Otherwise, read on to learn how to adjust the camera.
