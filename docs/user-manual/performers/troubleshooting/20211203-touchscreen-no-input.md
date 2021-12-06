@@ -34,6 +34,8 @@ The bug will then be fixed and you can now access **Raspberry Pi Menu**, **Deskt
 
 ---
 
-This is a very strange solution and as such is our current workaround for this issue. We are still looking for a more permanent fix to this issue.
+:::info
 
-For now, **avoid clicking the Bluetooth icon** unless you really need to access it.
+This is a very strange solution and as such is our current workaround for this issue. A more permanent solution might be available when `blueman-applet` software is updated by their developers.
+
+:::
