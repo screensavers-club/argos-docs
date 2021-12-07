@@ -54,8 +54,6 @@ Click the dropdown labelled "...from" and you should see all the available audio
 
 You may adjust the input volume if you wish.
 
----
-
 Once you have configured the devices, you may close the window.
 
 ---
