@@ -6,9 +6,7 @@ title: Installing PulseAudio Volume Control
 
 Open your terminal and type the commands below.
 
-`sudo apt-get install pulseaudio`
-
-`sudo apt install pulseaudio-module-zeroconf`
+`sudo apt install pavucontrol`
 
 Restart your XIMI unit going Menu > Logout > Reboot
 
