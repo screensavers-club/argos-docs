@@ -19,7 +19,7 @@ We recommend going with option 1 or 2 for a reliable setup.
 
 The most straightforward solution to get audio input working is to plug in a **USB Audio Adapter** (also known as USB Sound Card). Note that **there are different types of audio jacks which may or may not be compatible to certain types of USB Audio Adapters**
 
-See [Audio Jack Differences](/docs/user-manual/performers/troubleshooting/trs-trrs-differences) if you have problems setting up.
+See [Audio Jack Differences](/docs/user-manual/performers/troubleshooting/audio/trs-trrs-differences) if you have problems setting up.
 
 Here are some examples of such USB audio adapters:
 
@@ -44,13 +44,13 @@ Next, plug the USB end of the Adapter onto any USB port on the XIMI unit.
 
 ## Setting Active Audio Device
 
-If you have multiple audio devices connected and need to configure it, please visit [Audio Configuration](/docs/user-manual/performers/troubleshooting/audio-config) to configure your device.
+If you have multiple audio devices connected and need to configure it, please visit [Audio Configuration](/docs/user-manual/performers/troubleshooting/audio/audio-config) to configure your device.
 
 ---
 
 ## Bluetooth Audio
 
-To get your Bluetooth earphones/headphones to work with the XIMI Child Node, first [install the Bluetooth software](/docs/user-manual/performers/troubleshooting/installing-bluetooth) if you don't see this Bluetooth icon on the top-right corner of your screen.
+To get your Bluetooth earphones/headphones to work with the XIMI Child Node, first [install the Bluetooth software](/docs/user-manual/performers/troubleshooting/bluetooth/installing-bluetooth) if you don't see this Bluetooth icon on the top-right corner of your screen.
 
 ![Bluetooth icon](/img/new-user-manual/child-raspi/bluetooth-icon.png)
 

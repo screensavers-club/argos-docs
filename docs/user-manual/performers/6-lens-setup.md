@@ -20,7 +20,7 @@ To test your camera, tap on the **Test Cam** button. You should see the image yo
 
 ## Lens Adjustment: Exposure and Focus
 
-If you see a blank image, ensure that the lens cap is taken off. If the image is still blank, consider this troubleshooting solution: [Camera fails to turn on after OS upgrade](/docs/user-manual/performers/troubleshooting/camera-doesnt-turn-on-after-os-upgrade).
+If you see a blank image, ensure that the lens cap is taken off. If the image is still blank, consider this troubleshooting solution: [Camera fails to turn on after OS upgrade](/docs/user-manual/performers/troubleshooting/camera/camera-doesnt-turn-on-after-os-upgrade).
 
 The camera lens should come with two dials: one for **focusing**, and one for controlling the **exposure**. Due to the complexity of how the lens work, it is recommended to follow through the next set of instructions step-by-step to avoid confusion.
 
