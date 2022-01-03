@@ -4,7 +4,7 @@ title: Bluetooth icon has red cross next to it, unable to launch Bluetooth menu
 
 # Bluetooth icon has red cross next to it, unable to launch Bluetooth menu
 
-Please follow the instructions below if you are unable to connect to a bluetooth device even after following the steps to do so correctly; or if you see a red cross beside the Bluetooth icon that does not disappear even if you tried to switch on bluetooth.
+Please follow the instructions below if you are unable to connect to a bluetooth device even after following the [steps to do so correctly](/docs/user-manual/performers/audio#bluetooth-audio); or if you see a red cross beside the Bluetooth icon that does not disappear even if you tried to switch on bluetooth.
 
 ---
 
