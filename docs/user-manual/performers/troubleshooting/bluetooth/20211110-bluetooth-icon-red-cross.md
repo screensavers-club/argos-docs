@@ -8,7 +8,7 @@ Please follow the instructions below if you are unable to connect to a bluetooth
 
 ---
 
-### Discovering the issue
+### Identifying the issue
 
 First, connect a keyboard onto your XIMI unit.
 
@@ -16,15 +16,15 @@ Next, open the terminal as shown in the image below.
 
 ![bluetooth sap fix intro](/img/new-user-manual/child-raspi/bt-sap-1.png)
 
-Then, type the following command line
-
-`sudo systemctl status bluetooth`
+Then, type the following command line `sudo systemctl status bluetooth` and press enter.
 
 ![sap fix terminal command line 1](/img/new-user-manual/child-raspi/bt-sap-2.png)
 
-You should see the following output. If you receive the same errror in red, continue below on how to fix the issue.
+You should see the following output below.
 
 ![sap fix terminal command line output](/img/new-user-manual/child-raspi/bt-sap-3.png)
+
+If you receive the same errror in red, continue below on how to fix the issue. If not, please [contact us](/docs/help-problem) for further troubleshooting.
 
 Press `ctrl + c` to exit the output message
 
@@ -33,7 +33,8 @@ Press `ctrl + c` to exit the output message
 ### Troubleshooting the issue
 
 Next, type the following command:
-`sudo nano /etc/systemd/system/bluetooth.target.wants/bluetooth.service`
+
+`sudo nano /etc/systemd/system/bluetooth.target.wants/bluetooth.service` and press enter
 
 ![sap fix terminal command 2](/img/new-user-manual/child-raspi/bt-sap-4.png)
 
@@ -41,7 +42,9 @@ A document should open in the terminal like the image below
 
 ![sap fix document edit 1](/img/new-user-manual/child-raspi/bt-sap-5.png)
 
-Go to the line `ExecStart=/usr/lib/bluetooth/bluetoothd`, add a space behind the line and type `--noplugin=sap`
+Go to the line `ExecStart=/usr/lib/bluetooth/bluetoothd`, add a space behind the line and type:
+
+`--noplugin=sap`
 
 ![sap fix document edit 2](/img/new-user-manual/child-raspi/bt-sap-6.png)
 
@@ -55,7 +58,7 @@ Next you have to restart bluetooth. Type `sudo systemctl daemon-reload` in the t
 
 ![sap fix restart bt 1](/img/new-user-manual/child-raspi/bt-sap-7.png)
 
-Then, type `sudo service bluetooth restart`
+Then, type `sudo service bluetooth restart` and enter
 
 ![sap fix restart bt 2](/img/new-user-manual/child-raspi/bt-sap-8.png)
 
@@ -66,3 +69,5 @@ Once that is done, you can check if the system is working by typing `sudo system
 The output should show no messages in red.
 
 ![sap fix check bt 1](/img/new-user-manual/child-raspi/bt-sap-10.png)
+
+If bluetooth continues to fail, check out the [following issue](/docs/user-manual/performers/troubleshooting/bluetooth/bluetooth-sap-error-after-restart.md). Else, you may [contact us here](/docs/help-problem).
