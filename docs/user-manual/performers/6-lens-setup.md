@@ -24,31 +24,34 @@ If you see a blank image, ensure that the lens cap is taken off. If the image is
 
 The camera lens should come with two dials: one for **focusing**, and one for controlling the **exposure**. Due to the complexity of how the lens work, it is recommended to follow through the next set of instructions step-by-step to avoid confusion.
 
-Here are some reference images for the instructions below.
+Here is a reference image for the instructions below.
 
-![dials](/img/new-user-manual/child/cam4-dial-annotated.jpg)
-
-![knobs](/img/new-user-manual/child/cam4-knob-annotated.jpg)
+![dials and knob](/img/new-user-manual/child/cam1.jpg)
 
 ---
 
+:::info Note
+
+Before adjusting the dials, ensure that the **locking pins** are **untightened (but not removed from the lens)**. This ensures that you are able to rotate the dials easily.
+:::
+
 ### Exposure
 
-Locate the dial that is responsible for **exposure** **(see the pink arrow in the reference image)**.
+Locate the dial that is responsible for **exposure** (see the **yellow section** labelled **"Dial that CONTROLS EXPOSURE"** in the reference image)
 
-Adjust the exposure to get the desired brightness you require for your performance. Lock the dial in place by tightening the **extended knob** found 1 level before the dial **(see the green arrow in the reference image)**.
+Adjust the exposure to get the desired brightness you require for your performance. Lock the dial in place by **tightening** the **extended pin** found 1 level before the dial (see the **yellow arrow** labelled **"Pin that LOCKS EXPOSURE"** in the reference image)
 
 :::tip Note
-If you find it hard to adjust the dial, try loosening the extended knob and try again.
+If you find it hard to adjust the dial, **try loosening the extended knob and try again.**
 :::
 
 ---
 
 ### Focus
 
-Ensure that the exposure knob is tightened before you begin focusing. This is to ensure that you do not accidentally adjust the exposure.
+**Ensure that the exposure dial is locked before you begin focusing.** This is to ensure that you do not accidentally adjust the exposure. If you have not done so, please refer to the [Exposure section](/docs/user-manual/performers/lens-setup#exposure).
 
-Locate the dial responsible for the **focus** adjustment **(see the yellow arrow in the reference image)**.
+Locate the dial responsible for the **focus** adjustment (see the **cyan arrow** labelled **"Dial that CONTROLS FOCUS"** in the reference image above)
 
 To adjust the camera's focus, turn the dial **clockwise** to focus on further objects, and **anti-clockwise** to focus on nearer objects. Adjust until you see a sharp image.
 
@@ -60,14 +63,18 @@ To adjust the camera's focus, turn the dial **clockwise** to focus on further ob
 
 ---
 
-Lock the dial in place by tightening the **extended knob** found 1 level before the dial **(see the blue arrow in the reference image)**.
+Lock the dial in place by tightening the **extended pin** found 1 level before the dial (see the **cyan arrow** labelled **""Pin that LOCKS FOCUS** in the reference image)
 
 :::tip Note
-If you find it hard to adjust the dial, try loosening the extended knob and try again.
+If you find it hard to adjust the dial, **try loosening the extended knob and try again.**
 :::
 
 ---
 
 :::warning Warning
-Never loosen the camera lens for the sake of focusing as the lens may fall out of the device, causing damage.
+Never loosen the camera lens from the camera module for the sake of focusing as the lens may fall out of the device, causing damage.
 :::
+
+### Troubleshooting camera lens
+
+If you encounter any issues with the camera lens, please go to the [Troubleshooting Camera Lens page](/docs/user-manual/performers/troubleshooting/camera/unable-to-rotate-camera-lens) to read more.
