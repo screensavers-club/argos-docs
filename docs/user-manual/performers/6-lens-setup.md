@@ -22,42 +22,48 @@ To test your camera, tap on the **Test Cam** button. You should see the image yo
 
 If you see a blank image, ensure that the lens cap is taken off. If the image is still blank, consider this troubleshooting solution: [Camera fails to turn on after OS upgrade](/docs/user-manual/performers/troubleshooting/camera/camera-doesnt-turn-on-after-os-upgrade).
 
-The camera lens should come with two dials: one for **focusing**, and one for controlling the **exposure**. **Due to the complexity of how the lens work, it is recommended to follow through the next set of instructions step-by-step to avoid confusion.**
+The camera lens should come with two dials: one for **focusing**, and one for controlling the **brightness**. **Due to the complexity of how the lens work, it is recommended to follow through the next set of instructions step-by-step to avoid confusion.**
 
-Here is a reference image for the instructions below.
+Here is a reference image for the instructions below. Take note that there are 3 sections labelled #1, #2, and #3. We will use these numbers to guide you through the setup below.
 
 ![dials and knob](/img/new-user-manual/child/cam1.jpg)
 
-Note: If your unit do not have any **extended pins**, please [contact us here](/docs/help-problem).
+Note: If your unit do not have any **extended pins (image below)**, please [contact us here](/docs/help-problem).
 
-If your unit have **only 1 extended pin**, you can use it to **lock the exposure dial**, as it is preferable to lock the exposure dial to make it easier to rotate the focus dial. If required, remove and insert the pin into the threaded hole where the **Pin that LOCKS EXPOSURE** is supposed to be.
+![extended pin](/img/new-user-manual/child/extended-pin.jpg)
+
+If your unit have **only 1 extended pin**, you can use it to **lock the exposure dial**, as it is preferable to lock the exposure dial to make it easier to rotate the focus dial. If your pin is at **#3**, remove and insert the pin into the threaded hole at **#2**.
 
 ---
 
 :::info Note
 
-Before adjusting the dials, ensure that the **locking pins** are **untightened (but not removed from the lens)**. This ensures that you are able to rotate the dials easily.
+Before adjusting the dials, ensure that all **extended pins (on #2 and #3)** are **untightened (but not removed from the lens)**. This ensures that you are able to rotate the dials easily.
 :::
 
-### Exposure
+### Brightness
 
-Locate the dial that is responsible for **exposure** (see the **yellow section** labelled **"Dial that CONTROLS EXPOSURE"** in the reference image)
+The camera lens allows you to adjust the brightness of the image.
 
-Adjust the exposure to get the desired brightness you require for your performance. Lock the dial in place by **tightening** the **extended pin** found 1 level before the dial (see the **yellow arrow** labelled **"Pin that LOCKS EXPOSURE"** in the reference image)
+Locate the dial at **#1** and adjust to get the desired brightness you require for your performance.
+
+Next, lock the dial in place by **tightening** the **extended pin** at **#2**
 
 :::tip Note
-If you find it hard to adjust the dial, **try loosening the extended knob and try again.**
+If you find it hard to adjust the dial, **try loosening the extended knob at #2 and try again.**
 :::
 
 ---
 
 ### Focus
 
-**Ensure that the exposure dial is locked before you begin focusing.** This is to ensure that you do not accidentally adjust the exposure. If you have not done so, please refer to the [Exposure section](/docs/user-manual/performers/lens-setup#exposure).
+The second control on the camera lens is focus.
 
-Locate the dial responsible for the **focus** adjustment (see the **cyan arrow** labelled **"Dial that CONTROLS FOCUS"** in the reference image above)
+:::info Note
+Ensure that **the brightness dial is locked before you begin focusing**. **#1** should be rotating together with **#2** at this point. If this is not happening, please tighten the extended knob at **#2**. This is to ensure that you do not accidentally change the brightness. If you have not done so, please refer to the [Brightness section](/docs/user-manual/performers/lens-setup#brightness).
+:::
 
-To adjust the camera's focus, turn the dial **clockwise** to focus on further objects, and **anti-clockwise** to focus on nearer objects. Adjust until you see a sharp image.
+Locate the dial at **#2**. To adjust the focus, turn the dial **clockwise** to focus on further objects, and **anti-clockwise** to focus on nearer objects. Adjust until you see a sharp image.
 
 ![focusing](/img/new-user-manual/child/26-camera.jpg)
 
@@ -65,18 +71,26 @@ To adjust the camera's focus, turn the dial **clockwise** to focus on further ob
 
 ![focusing](/img/new-user-manual/child-raspi/33-camfocus.png)
 
----
-
-Lock the dial in place by tightening the **extended pin** found 1 level before the dial (see the **cyan arrow** labelled **""Pin that LOCKS FOCUS** in the reference image)
+Next, lock the dial in place by **tightening** the **extended pin** at **#3**
 
 :::tip Note
-If you find it hard to adjust the dial, **try loosening the extended knob and try again.**
+If you find it hard to adjust the dial, **try loosening the extended knob at #3 and try again.**
+:::
+
+---
+
+## Readjusting camera brightness
+
+If you wish to change the brightness, simply **untighten the extended pin at #2** and **rotate #1**
+
+## Readjusting camera focus
+
+If you wish to change the focus, simply **untighten the extended pin at #3** and **rotate #2**
+
+:::warning Warning
+Never loosen the camera lens from the camera module for the sake of focusing as the lens may fall out of the device, causing damage.
 :::
 
 ---
 
 If you encounter any issues with the camera lens, please go to the [Troubleshooting Camera Lens page](/docs/user-manual/performers/troubleshooting/camera/unable-to-rotate-camera-lens) to read more.
-
-:::warning Warning
-Never loosen the camera lens from the camera module for the sake of focusing as the lens may fall out of the device, causing damage.
-:::
