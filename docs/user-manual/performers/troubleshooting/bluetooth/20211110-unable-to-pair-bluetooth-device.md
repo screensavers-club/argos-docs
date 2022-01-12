@@ -32,9 +32,9 @@ So far, we have identified three outcomes to this issue:
 
 ### [Error "Sap driver initialization failed"](#error-sap-driver-initialization-failed-and-sap-server-operation-not-permitted)
 
-### [Error "Blocked through rfkill"](#error-blocked-through-rfkill)
+### [Error "Blocked through rfkill"](#error-blocked-through-rfkill-1)
 
-### [Other errors](#error-without-sap-driver-failure-1)
+### [Other errors](#other-errors-1)
 
 Press `ctrl + c` or `q` to exit the output message before you continue.
 
