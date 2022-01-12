@@ -4,6 +4,8 @@ title: Unable to Pair Bluetooth Device
 
 ## Unable to Pair Bluetooth Device
 
+Before you begin, ensure to try connecting to other Bluetooth audio devices. If those still don't work, you can proceed to try the following fixes.
+
 ![bluetooth fails](/img/new-user-manual/child-raspi/bt-failed-to-connect.png)
 
 The following instructions are for troubleshooting bluetooth connectivity issues on the XIMI unit. **This is applicable in the following situations:**
@@ -26,13 +28,15 @@ Then, type the following command line `sudo systemctl status bluetooth` and pres
 
 ![sap fix terminal command line 1](/img/new-user-manual/child-raspi/bt-sap-2.png)
 
-So far, we have identified two outcomes to this issue:
+So far, we have identified three outcomes to this issue:
 
 ### [Error "Sap driver initialization failed"](#error-sap-driver-initialization-failed-and-sap-server-operation-not-permitted)
 
-### [Error without Sap driver failure](#error-without-sap-driver-failure-1)
+### [Error "Blocked through rfkill"](#error-blocked-through-rfkill)
 
-Press `ctrl + c` to exit the output message before you continue.
+### [Other errors](#error-without-sap-driver-failure-1)
+
+Press `ctrl + c` or `q` to exit the output message before you continue.
 
 ---
 
@@ -84,9 +88,27 @@ If bluetooth continues to fail, please document the issue and [contact us here](
 
 ---
 
-## Error Without Sap Driver Failure
+## Error "Blocked through rfkill"
 
-If you only get some error messages without the [Sap Driver error](#error-sap-driver-initialization-failed-and-sap-server-operation-not-permitted), your terminal output should look like this.
+If you see an error `Failed to set mode: Blocked through rfkill (0x12)`, please try the steps below to rectify.
+
+![rfkill 1](/img/new-user-manual/child-raspi/rfkill-1.png)
+
+On the command line, type `sudo rfkill unblock bluetooth`
+
+![rfkill 2](/img/new-user-manual/child-raspi/rfkill-2.png)
+
+Then, restart bluetooth by typing `sudo systemctl restart bluetooth`
+
+![rfkill 3](/img/new-user-manual/child-raspi/rfkill-3.png)
+
+Checking the bluetooth using `sudo systemctl status bluetooth` to check if there are anymore error messages.
+
+---
+
+## Other errors
+
+If you get an error messages without the [Sap Driver error](#error-sap-driver-initialization-failed-and-sap-server-operation-not-permitted) or [rfkill error](#error-blocked-through-rfkill), your terminal output should look like this.
 
 ![failed to set privacy issue](/img/new-user-manual/child-raspi/bt-sap-error-after-restart.png)
 

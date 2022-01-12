@@ -106,6 +106,14 @@ The pairing is now complete. You may exit the window.
 
 ---
 
+### Troubleshooting
+
+Take note that not all devices will work with the unit. If pairing of one device does not work, please try another device if possible.
+
+If none of your device works, please visit the [Bluetooth troubleshooting page](/docs/user-manual/performers/troubleshooting/bluetooth/unable-to-pair-bluetooth-device) to troubleshoot the Bluetooth on the unit.
+
+---
+
 ### Disconnecting Bluetooth Devices
 
 If you intend to disconnect a device, you can select the device you wish to disconnect and press the **"-"** icon to disconnect your device.
