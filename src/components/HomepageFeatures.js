@@ -26,7 +26,7 @@ const FeatureList = [
         show.
       </>
     ),
-    link: "/#",
+    link: "/docs/user-manual/stage-managers/overview",
     linkTitle: "Explore",
   },
   // {
