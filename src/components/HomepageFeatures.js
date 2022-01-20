@@ -29,17 +29,16 @@ const FeatureList = [
     link: "/docs/user-manual/stage-managers/overview",
     linkTitle: "Explore",
   },
-  // {
-  //   title: "Powered by React",
-  //   Svg: require("../../static/img/docusaurus/undraw_docusaurus_react.svg")
-  //     .default,
-  //   description: (
-  //     <>
-  //       Extend or customize your website layout by reusing React. Docusaurus can
-  //       be extended while reusing the same header and footer.
-  //     </>
-  //   ),
-  // },
+  {
+    title: "Support Hotline",
+    Svg: require("../../static/img/docusaurus/undraw_docusaurus_react.svg")
+      .default,
+    description: (
+      <>
+        Reach out to us over Whatsapp/phone at <tel>+65 8835 8487</tel>
+      </>
+    ),
+  },
 ];
 
 function Feature({ Svg, title, description, link, linkTitle }) {
