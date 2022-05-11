@@ -35,7 +35,7 @@ const FeatureList = [
       .default,
     description: (
       <>
-        Reach out to us over Whatsapp/phone at <tel>+65 8835 8487</tel>
+        Reach out to us over email at <a href="mailto:productions@practice.org.sg">productions@practice.org.sg</a>
       </>
     ),
   },
